@@ -1,0 +1,217 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Asap', system-ui, sans-serif !important;
+  }
+}
+
+$color-white: #fff;
+$color-red: #ff004e;
+$color-yellow: #ffb400;
+$color-green: #19e3a3;
+$color-blue: #0096ff;
+
+$md-breakpoint: 768px;
+$lg-breakpoint: 1024px;
+$xl-breakpoint: 1280px;
+
+header {
+  nav ul.header__nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem;
+
+    @media only screen and (min-width: $lg-breakpoint) {
+      flex-direction: row;
+      text-align: auto;
+      padding: 0;
+    }
+
+    li {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 1.1rem;
+      border-bottom: 3px solid transparent;
+      margin: 0.4rem 0;
+      border: 2px solid transparent;
+      border-radius: 0.5rem;
+      
+      @media only screen and (min-width: $lg-breakpoint) {
+        margin: 0 2rem !important;
+        border-radius: 0;
+        border: none;
+        border-bottom: 3px solid transparent;
+      }
+      @media only screen and (min-width: $xl-breakpoint) {
+        margin: 0 2.8125rem !important;
+      }
+
+      a {
+        display: block;
+        padding: 1rem 2.5rem;
+        @media only screen and (min-width: $lg-breakpoint) {
+          display: inline;
+          padding: 0;
+        }
+      }
+      
+      &:last-child {
+        border-color: transparent !important;
+        margin-right: 0 !important;
+        margin-bottom: 0 !important;
+
+        a {
+          @extend .btn;
+          @extend .btn--yellow;
+          padding: 1rem 2.5rem;
+          border-radius: 0.5rem;
+          display: block;
+          width: 100%;
+
+          @media only screen and (min-width: $lg-breakpoint) {
+            width: auto;
+            display: inline;
+          }
+        }
+      }
+
+      &:hover, &.current_page_item {
+        border-color: lightgray;
+
+        @media only screen and (min-width: $lg-breakpoint) {
+          border-color: transparent;
+          border-bottom-color: $color-red;
+        }
+      }
+    }
+  }
+}
+
+.info-block {
+  transition: 0.45s ease;
+  &:hover .info-block__inside__read-more {
+    color: #007eff;
+  }
+
+  &__inside {
+    margin: 0 auto;
+  
+    .btn {
+      width: 172px;
+      height: 167px;
+    }
+    &__read-more {
+      color: rgba(0, 0, 0, 0);
+      transition: .4s ease;
+    }
+  }
+}
+
+.working-with-container img {
+  filter: invert(21%) sepia(97%) saturate(1581%) hue-rotate(186deg) brightness(96%) contrast(98%); // generated with https://isotropic.co/tool/hex-color-to-css-filter/
+}
+
+footer {
+  .footer-title {
+    &__last-word-wrapper {
+      position: relative;
+      display: block;
+    
+      &__text {
+        background-color: white;
+        position: relative;
+        z-index: 2;
+        padding-right: 0.9375rem;
+      }
+      &__accessory {
+        position: absolute;
+        z-index: 1;
+        display: block;
+        height: 4px;
+        width: 100%;
+        transform: translateY(-50%);
+        top: 50%;
+        overflow: hidden;
+      }
+    }
+  }
+  .footer-contacts p, .footer-contacts a, ul.footer__nav li {
+    margin: 0.75rem 0;
+  }
+}
+
+.right-icon {
+  width: 29px;
+  height: 29px;
+  filter: invert(20%) sepia(78%) saturate(7489%) hue-rotate(337deg) brightness(96%) contrast(112%);
+}
+
+.btn {
+  color: $color-white;
+  text-transform: uppercase;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.3);
+  font-weight: bold;
+}
+
+@mixin colored-button($color) {
+  background-color: $color !important;
+  box-shadow: 0px 4px darken($color, 10);
+  &:hover:not(.btn--no-hover) {
+    background-color: darken($color, 5) !important;
+  }
+}
+
+.btn--red {
+  @include colored-button($color-red);
+}
+.btn--yellow {
+  @include colored-button($color-yellow);
+}
+.btn--blue {
+  @include colored-button($color-blue);
+}
+
+.bg-blue {
+  background-color: $color-blue;
+}
+.bg-red {
+  background-color: $color-red;
+}
+.bg-yellow {
+  background-color: $color-yellow;
+}
+.bg-green {
+  background-color: $color-green;
+}
+
+.wpcf7 form .wpcf7-response-output {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  border-radius: 8px;
+
+  margin: 0 0 1rem;
+  padding: 0.4rem 0.5rem;
+  border: 2px solid transparent;
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+  border-color: #37C044;
+  background-color: #55D561;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output,
+.wpcf7 form.spam .wpcf7-response-output,
+.wpcf7 form.failed .wpcf7-response-output,
+.wpcf7 form.aborted .wpcf7-response-output {
+  border-color: #CC516B;
+  background-color: #E76C86;
+}
