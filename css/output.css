@@ -609,6 +609,11 @@ html {
   margin-bottom: 0.75rem;
 }
 
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -1272,11 +1277,6 @@ footer .footer-contacts p, footer .footer-contacts a, footer ul.footer__nav li {
 .hover\:border-black:hover {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
-}
-
-.hover\:py-20:hover {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
 }
 
 .focus\:outline-yellow-400:focus {
