@@ -51,7 +51,7 @@
       <strong>1.</strong> Įrenginį būtina įvinioti į burbulinį popierių tam, kad pristatymo metu atlaikytų įvairius smūgius ar kitų siuntų spaudimą.<br/><br/>
       <strong>2.</strong> Dėžė turi būti tokio dydžio, kad supakuotas įrenginys visiškai nejudėtų. Jei dėžė yra per didelė, tada būtina ją užpildyti įvairiomis medžiagomis. Taip apsaugosite savo turtą nuo įvairių apgadinimų.<br/><br/>
       <strong>3.</strong> Dėžę būtina apklijuoti lipnia juosta iš visų pusių.<br/><br/>
-      <strong>UAB „IT112“ neatsako, jei įrenginys buvo pažeistas pristatymo metu dėl netinkamo įpakavimo.</strong>
+      <strong>MB „IT112“ neatsako, jei įrenginys buvo pažeistas pristatymo metu dėl netinkamo įpakavimo.</strong>
     </p>
   </div>
 </div>
