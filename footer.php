@@ -42,13 +42,13 @@
       <div class="col-span-6 md:col-span-2">
         <h3 class="text-xl font-bold uppercase mb-1 md:mb-3">Rekvizitai</h3>
         <p class="text-gray-400">
-          UAB „NAME“<br />
-          Įmonės kodas: 304835075<br />
-          PVM: LT100012898818<br />
-          Adresas: Šviesos g. 11-68, Grigiškės, LT-27117 Vilnius<br /><br />
+          MB „IT112“<br />
+          Įmonės kodas: <br />
+          PVM: <br />
+          Adresas: <br /><br />
 
-          Atsiskaitomoji sąskaita: LT723500010003560383<br />
-          Paysera LT, UAB
+          Atsiskaitomoji sąskaita: <br />
+          MB "IT112"
         </p>
       </div>
     </footer>
