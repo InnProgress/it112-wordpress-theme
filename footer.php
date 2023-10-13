@@ -21,8 +21,8 @@
       <div class="col-span-6 md:col-span-2 xl:col-span-1">
         <h3 class="text-xl font-bold uppercase mb-1 md:mb-3">Kontaktai</h3>
         <div class="footer-contacts text-gray-400">
-          <p>Adresas g. 29, Vilnius</p>
-          <a href="tel:+37068415103" class="block">+37068415103</a>
+          <p>Adresas</p>
+          <a href="tel:+37068415103" class="block">Telefonas</a>
           <a href="mailto:info@pavadinimas.lt" class="block">info@it112.lt</a>
         </div>
       </div>
