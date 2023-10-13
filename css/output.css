@@ -1147,7 +1147,7 @@ header nav ul.header__nav li:hover, header nav ul.header__nav li.current_page_it
 
 .info-block__inside .btn, .info-block__inside header nav ul.header__nav li:last-child a, header nav ul.header__nav li:last-child .info-block__inside a {
   width: 172px;
-  height: 167px;
+  height: 220px;
 }
 
 .info-block__inside__read-more {
