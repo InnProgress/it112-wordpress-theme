@@ -16,7 +16,7 @@
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
       <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
-        <div class="info-block__inside w-48">
+        <div class="info-block__inside w-55">
           <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
             <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto">
           </div>
