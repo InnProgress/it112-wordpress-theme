@@ -100,8 +100,8 @@
           <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
         </div>
         <div class="ml-5 md:ml-8">
-          <a href="tel:+37068415103" class="block text-xl md:text-2xl font-bold">+37068415103</a>
-          <a href="mailto:info@pavadinimas.lt" class="block text-xl md:text-2xl font-semibold">info@pavadinimas.lt</a>
+          <a href="tel:telefonas" class="block text-xl md:text-2xl font-bold">Telefonas</a>
+          <a href="mailto:info@it112.lt" class="block text-xl md:text-2xl font-semibold">info@it112.lt</a>
         </div>
       </div>
       <div class="flex items-center mt-6 md:mt-8">
@@ -109,8 +109,8 @@
           <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
         </div>
         <div class="ml-5 md:ml-8">
-          <p class="text-xl md:text-2xl font-bold">Zalgirio g. 27 - 3A</p>
-          <p class="text-xl md:text-2xl font-semibold">I - V, 10-18 val.</p>
+          <p class="text-xl md:text-2xl font-bold">Adresas</p>
+          <p class="text-xl md:text-2xl font-semibold">Darbo laikas</p>
         </div>
       </div>
     </div>
