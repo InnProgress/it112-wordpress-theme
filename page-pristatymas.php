@@ -15,23 +15,23 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/delivery.png" class="mx-auto w-10/12">
   </div>  
   <div class="xl:w-5/12 xl:self-center">
-    <h2 class="text-3xl md:text-5xl font-extrabold uppercase text-center lg:text-left mb-1 md:mb-4">Visi pristatymo būdai?</h2>
-    <p class="text-lg md:text-2xl text-center lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Siuntų pristatymas trunka vos 1-2 dienas</p>
+    <h2 class="text-3xl md:text-5xl font-extrabold uppercase text-center lg:text-left mb-1 md:mb-4">Visi pristatymo būdai</h2>
+    <p class="text-lg md:text-2xl text-center lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Siuntų pristatymas dažniausiai trunka vos 1-2 darbo dienas</p>
     <div class="flex-1">
       <div class="border border-solid border-slate-300 rounded-lg overflow-hidden mt-5">
         <table class="border-collapse w-full text-left text-md md:text-xl">
           <tbody>
             <tr>
               <td class="w-[45%] border-b border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Kurjeriai</td>
-              <td class="border-b border-slate-300 px-8 py-6">Zalgirio g. 31, Vilnius</td>
+              <td class="border-b border-slate-300 px-8 py-6">Adresas</td>
             </tr>
             <tr>
               <td class="w-[45%] border-b border-r border-slate-300 uppercase font-bold px-8 py-6">LP Express</td>
-              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Nausedos g. 5, Vilnius</td>
+              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Adresas</td>
             </tr>
             <tr>
               <td class="w-[45%] border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Omniva</td>
-              <td class="border-slate-300 px-8 py-6">Zalgirio g. 30-1A, Vilnius</td>
+              <td class="border-slate-300 px-8 py-6">Adresas</td>
             </tr>
           </tbody>
         </table>
