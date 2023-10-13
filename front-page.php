@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
-    <h1 class="text-3xl md:text-5xl font-extrabold mb-1 md:mb-4">KOMPIUTERIŲ SERVISAS VILNIUJE</h1>
+    <h1 class="text-3xl md:text-5xl font-bold mb-1 md:mb-4">KOMPIUTERIŲ SERVISAS VILNIUJE</h1>
     <p class="text-lg md:text-2xl my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">PASLAUGŲ KAINOS</a>
   </div>
@@ -12,7 +12,7 @@
 </div>
 
 <div class="text-center mt-14 mb-14">
-  <h2 class="text-2xl md:text-4xl font-extrabold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
+  <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
       <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
