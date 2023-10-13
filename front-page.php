@@ -12,8 +12,7 @@
 </div>
 
 <div class="text-center mt-14 mb-14">
-  <h2 class="text-2xl md:text-4xl font-extrabold mb-1 md:mb-3">APIE MUS</h2>
-  <p class="text-md md:text-xl my-1 md:my-4">Kuriame ryšį su mūsų klientais</p>
+  <h2 class="text-2xl md:text-4xl font-extrabold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
       <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
