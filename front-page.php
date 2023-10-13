@@ -111,7 +111,7 @@
           <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
         </div>
         <div class="ml-5 md:ml-8">
-          <p class="text-xl md:text-2xl font-bold">Zalgirio (fuj) g. 27 - 3A</p>
+          <p class="text-xl md:text-2xl font-bold">Zalgirio g. 27 - 3A</p>
           <p class="text-xl md:text-2xl font-semibold">I - V, 10-18 val.</p>
         </div>
       </div>
