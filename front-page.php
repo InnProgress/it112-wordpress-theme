@@ -94,7 +94,7 @@
   </div>
   <div class="flex-1 self-center">
     <div class="lg:pl-[80px]">
-      <h2 class="text-3xl md:text-4xl font-extrabold mb-4 md:mb-7">Susisiekime dabar!</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Susisiekime dabar!</h2>
       <div class="flex items-center">
         <div class="w-10 md:w-20">
           <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
