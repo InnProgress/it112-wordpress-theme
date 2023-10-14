@@ -95,13 +95,13 @@
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/error-troubleshooting.png" class="mx-auto md:mx-0 w-11/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mx-0 w-11/12">
   </div>
 </div>
 
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/error-troubleshooting.png" class="mx-auto md:mx-0 w-11/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/coins.png" class="mx-auto md:mx-0 w-11/12">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių supirkimas</h2>
