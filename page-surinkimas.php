@@ -23,10 +23,9 @@
     </div>
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
     <div class="info-block block bg-gray-100 text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
-      <div class="info-block__inside">
-        <div class="bg-yellow rounded-full inline-flex w-[131px] h-[131px] text-center p-4 mb-6">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/search-icon.png" width="59" height="62" class="self-center mx-auto">
-        </div>
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/search-icon.png" width="60" height="60" class="self-center mx-auto">
+          </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Paieška</h3>
         <p class="text-lg md:text-xl">Operatyviai ieškome tik kokybiškų ir Jūsų biudžetą atitinkančių komponentų.</p>
       </div>  
@@ -34,9 +33,9 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-        <div class="bg-blue rounded-full inline-flex w-[131px] h-[131px] text-center p-4 mb-6">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle-icon.png" width="59" height="62" class="self-center mx-auto">
-        </div>
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="60" height="60" class="self-center mx-auto">
+          </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Surinkimas</h3>
         <p class="text-lg md:text-xl">Kruopščiai ir atvarkingai surenkame. Ištestuojame. Suteikiame garantiją dalims bei darbams.</p>
       </div>
@@ -44,9 +43,9 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
     <div class="info-block block bg-gray-100 text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-        <div class="bg-yellow rounded-full inline-flex w-[131px] h-[131px] text-center p-4 mb-6">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/shipment-icon.png" class="self-center mx-auto">
-        </div>
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/search-icon.png" width="60" height="60" class="self-center mx-auto">
+          </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Pristatymas</h3>
         <p class="text-lg md:text-xl">Kokybiškai supakuojame ir pristatome į kliento namus. Yra galimybė atsiimti salone.</p>
       </div>
