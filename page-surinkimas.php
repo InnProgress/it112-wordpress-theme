@@ -14,7 +14,7 @@
   <div class="flex flex-col xl:flex-row space-y-6 xl:space-y-0 xl:space-x-6 py-5 text-xl">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-6">
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
             <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="60" height="60" class="self-center mx-auto">
           </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Konsultacija</h3>
