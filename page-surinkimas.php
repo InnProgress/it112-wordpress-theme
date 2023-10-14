@@ -14,7 +14,7 @@
   <div class="flex flex-col xl:flex-row space-y-6 xl:space-y-0 xl:space-x-6 py-5 text-xl">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
             <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="60" height="60" class="self-center mx-auto">
           </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Konsultacija</h3>
@@ -24,7 +24,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
     <div class="info-block block bg-gray-100 text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
           <div class="info-block__inside">
-          <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+          <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
             <img src="<?php echo get_template_directory_uri(); ?>/img/search-icon.png" width="60" height="60" class="self-center mx-auto">
           </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Paieška</h3>
@@ -34,11 +34,11 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-3 mb-3">
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
             <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="60" height="60" class="self-center mx-auto">
           </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Surinkimas</h3>
-        <p class="text-lg md:text-xl">Kruopščiai ir atvarkingai surenkame. Ištestuojame. Suteikiame garantiją dalims bei darbams.</p>
+        <p class="text-lg md:text-xl">Kruopščiai ir tvarkingai surenkame. Ištestuojame. Suteikiame garantiją dalims bei darbams.</p>
       </div>
     </div>
     <img src="<?php echo get_template_directory_uri(); ?>/img/right-icon.png" width="29" height="29" class="right-icon self-center rotate-90 xl:rotate-0">
