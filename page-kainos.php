@@ -7,7 +7,7 @@
     <p class="text-lg md:text-2xl my-2 md:my-5">Visiems darbams suteikiama <strong>3 mėnesių garantija!</strong></p>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/troubleshooting.png" class="mx-auto w-9/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/maintenance.png" class="mx-auto w-9/12">
   </div>
 </div>
 
