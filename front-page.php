@@ -83,7 +83,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių remontas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Mes tvirtai laikomės aukštų kokybės standartų. Teikiame aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Mūsų komanda stengiasi greitai rasti sprendimus, kad klientai galėtų kuo greičiau grįžti prie savo darbų.</p>
+    <p class="text-lg md:text-xl my-3 md:my-5">Mes tvirtai laikomės aukštų kokybės standartų. Teikiame aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Mūsų komanda stengiasi greitai rasti kiekvienos problemos sprendimus.</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
