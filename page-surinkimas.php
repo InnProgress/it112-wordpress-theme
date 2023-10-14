@@ -15,7 +15,7 @@
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
           <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="95" height="95" class="self-center mx-auto">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="60" height="60" class="self-center mx-auto">
           </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Konsultacija</h3>
         <p class="text-lg md:text-xl">Analizuojame Jūsų poreikius. Nustatome biudžetą. Pateikiame pavyzdžių.</p>
