@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row mb-14 md:mb-0">
   <div class="lg:w-5/12 self-center text-center lg:text-left">
-    <h1 class="text-3xl md:text-5xl font-extrabold uppercase mb-1 md:mb-4">Reikia stacionaraus kompiuterio?<br/>Sukomplektuosime!</h1>
+    <h1 class="text-3xl md:text-5xl font-extrabold uppercase mb-1 md:mb-4">Reikia stacionaraus kompiuterio?</h1>
     <p class="text-lg md:text-2xl my-2 md:my-5">Galime surinkti itin galingus, žaidimams ir sudėtingam darbui pritaikytus arba biudžetinius, mokslams ir įprastam laisvalaikiui skirtus stacionarius kompiuterius. Parinksime tik kokybiškus komponentus. Suteiksime garantiją.</p>
   </div>
   <div class="flex-1">
