@@ -91,7 +91,7 @@
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Stacionarių kompiuterių surinkimas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Test</p>
+    <p class="text-lg md:text-xl my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
   <div class="flex-1">
@@ -105,7 +105,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių supirkimas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Test</p>
+    <p class="text-lg md:text-xl my-3 md:my-5">Superkame HP, DELL, LENOVO, ASUS, ACER, MSI, SAMSUNG nešiojamus bei stacionarius kompiuterius. Tai yra puiki galimybė tiems, kurie nori atsikratyti seno ir įsigyti naują kompiuterinę įrangą. Mes vertiname naudotus kompiuterius pagal jų būklę ir technines specifikacijas. Galime pasiūlyti itin gerą kainą.</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
