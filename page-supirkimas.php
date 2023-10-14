@@ -6,7 +6,7 @@
     <p class="text-lg md:text-2xl my-2 md:my-5">Užpildykite žemiau esančia formą ir sulaukite atsakymo greičiau nei per 24 valandas! Atlikus išsamią apžiūrą galėsime tiksliai nustatyti įrenginio vertę ir pasiūlyti geriausią kainą.</p>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/monitor.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/buy-laptop.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
   </div>
 </div>
 
