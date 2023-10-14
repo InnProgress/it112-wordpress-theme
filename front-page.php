@@ -88,6 +88,19 @@
   </div>
 </div>
 
+<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
+  <div class="flex-1 self-center text-center md:text-left">
+    <div class="lg:w-max">
+      <h2 class="text-2xl md:text-4xl font-bold uppercase mb-2 md:mb-4">STACIONARIŲ KOMPIUTERIŲ SURINKIMAS</h2>
+      <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Test</p>
+        <a href="<?php echo get_page_link(35); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+    </div>  
+  </div>
+  <div class="flex flex-1 justify-end">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/search.png">
+  </div>
+</div>
+
 <div class="flex flex-col md:flex-row mb-14 lg:mb-0">
   <div class="flex-1">
     <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
@@ -114,22 +127,6 @@
         </div>
       </div>
     </div>
-  </div>
-</div>
-
-<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
-  <div class="flex-1 self-center text-center md:text-left">
-    <div class="lg:w-max">
-      <h2 class="text-2xl md:text-4xl font-bold uppercase mb-2 md:mb-4">Pasitikrink remonto būseną!</h2>
-      <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Stebėkite savo įrenginio remonto eigą tiesiogiai mūsų svetainėje</p>
-      <form>
-        <input class="block w-full text-lg rounded-lg border border-solid border-gray-200 px-3 md:px-5 py-3 md:py-5 mb-3 md:mb-5" name="code" placeholder="Įveskite remonto numerį" />
-        <button class="btn btn--yellow rounded-lg text-md md:text-xl px-14 py-5">TIKRINTI</a>
-      </form>
-    </div>  
-  </div>
-  <div class="flex flex-1 justify-end">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/search.png">
   </div>
 </div>
 
