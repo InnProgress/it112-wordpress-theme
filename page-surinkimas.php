@@ -14,9 +14,9 @@
   <div class="flex flex-col xl:flex-row space-y-6 xl:space-y-0 xl:space-x-6 py-5 text-xl">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">
-        <div class="bg-blue rounded-full inline-flex w-[131px] h-[131px] text-center p-4 mb-6">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="59" height="62" class="self-center mx-auto">
-        </div>
+          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/chat-icon.png" width="95" height="95" class="self-center mx-auto">
+          </div>
         <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Konsultacija</h3>
         <p class="text-lg md:text-xl">Analizuojame Jūsų poreikius. Nustatome biudžetą. Pateikiame pavyzdžių.</p>
       </div>
