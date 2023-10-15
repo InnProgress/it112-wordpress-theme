@@ -15,7 +15,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/shipments.png" class="mx-auto w-10/12">
   </div>  
   <div class="xl:w-5/12 xl:self-center">
-    <h2 class="text-3xl md:text-5xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Visi pristatymo būdai</h2>
+    <h2 class="text-3xl md:text-5xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Pristatymo būdai</h2>
     <p class="text-lg md:text-2xl text-center lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Siuntų pristatymas dažniausiai trunka vos 1-2 darbo dienas</p>
     <div class="flex-1">
       <div class="border border-solid border-slate-300 rounded-lg overflow-hidden mt-5">
