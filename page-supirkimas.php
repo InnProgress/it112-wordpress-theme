@@ -33,7 +33,7 @@
         <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/warning-icon.png" width="95" height="95" class="self-center mx-auto">
         </div>
-        <p class="text-lg md:text-xl">Taip pat superkame neįsijungiančius, sulūžius, apipiltus nešiojamus ir stacionarius kompiuterius</p>
+        <p class="text-lg md:text-xl">Taip pat superkame neįsijungiančius, sulūžusius, apipiltus nešiojamus ir stacionarius kompiuterius</p>
       </div>
     </div>
   </div>
