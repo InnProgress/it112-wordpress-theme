@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row mt-6 mb-14 md:mb-12">
   <div class="lg:w-5/12 self-center text-center lg:text-left">
-    <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Saugiai pristatykite įrenginį kurjeriu ar paštomatu!</h1>
+    <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Pristatykite kurjeriu ar paštomatu!</h1>
     <p class="text-lg md:text-2xl my-2 md:my-5">Jei neturite laiko atvykti patys ar gyvenate toli nuo mūsų salono, pasinaudokite kurjerių bei paštomatų pagalba. Sutaisysime įrenginį, saugiai įpakuosime ir išsiųsime Jums nemokamai!</p>
   </div>
   <div class="flex-1 mb-6 lg:mb-0">
