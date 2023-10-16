@@ -3,7 +3,9 @@
 <div class="flex flex-col-reverse lg:flex-row mb-14 md:mb-0">
   <div class="lg:w-5/12 self-center text-center lg:text-left">
     <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Susisiekime!</h1>
-    <p class="text-lg md:text-2xl my-2 md:my-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione eveniet cumque mollitia qui ut enim corporis dignissimos itaque velit, ipsam nobis a illum quidem obcaecati? Iure quia unde quo doloremque? <a href="mailto:info@it112.lt" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">info@it112.lt </a> <a href="tel:+37062249444" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">+3705...</a> </p>
+    <p class="text-lg md:text-2xl my-2 md:my-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione eveniet cumque mollitia qui ut enim corporis dignissimos itaque velit, ipsam nobis a illum quidem obcaecati? Iure quia unde quo doloremque? 
+        <a href="mailto:info@it112.lt" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">info@it112.lt</a> Lorem ipsum ipsum
+     <a href="tel:+37062249444" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">+3705...</a> </p>
   </div>
   <div class="flex-1">
     <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
