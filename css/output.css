@@ -1060,6 +1060,15 @@ html {
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 
+.text-blue-600 {
+  --tw-text-opacity: 1;
+  color: rgb(37 99 235 / var(--tw-text-opacity));
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
 .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
@@ -1298,8 +1307,19 @@ footer .footer-contacts p, footer .footer-contacts a, footer ul.footer__nav li {
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
+.hover\:no-underline:hover {
+  text-decoration-line: none;
+}
+
 .focus\:outline-yellow-400:focus {
   outline-color: #facc15;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark\:text-blue-500 {
+    --tw-text-opacity: 1;
+    color: rgb(59 130 246 / var(--tw-text-opacity));
+  }
 }
 
 @media not all and (min-width: 1024px) {
