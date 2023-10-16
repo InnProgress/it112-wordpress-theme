@@ -2,8 +2,8 @@
 
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
-    <h1 class="text-3xl md:text-5xl font-bold mb-1 md:mb-4">KOMPIUTERIŲ SERVISAS VILNIUJE</h1>
-    <p class="text-lg md:text-2xl my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
+    <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">KOMPIUTERIŲ SERVISAS VILNIUJE</h1>
+    <p class="text-lg md:text-xl lg:text-2xl my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">PASLAUGŲ KAINOS</a>
   </div>
   <div class="flex-1">
@@ -26,7 +26,7 @@
       </a>
     </div>
     <div class="w-full">
-      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
+      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl bg-gray-100 border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
         <div class="info-block__inside w-48">
           <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
             <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto">
@@ -88,7 +88,7 @@
   </div>
 </div>
 
-<div class="flex flex-col md:flex-row mb-14 lg:mb-10">
+<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Stacionarių kompiuterių surinkimas</h2>
     <p class="text-lg md:text-xl my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
@@ -110,7 +110,7 @@
   </div>
 </div>
 
-<div class="flex flex-col md:flex-row mb-14 lg:mb-0">
+<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-0">
   <div class="flex-1 self-center">
     <div class="lg:pl-[80px]">
       <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Susisiekime dabar!</h2>
