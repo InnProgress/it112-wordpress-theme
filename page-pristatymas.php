@@ -12,7 +12,7 @@
 
 <div class="flex flex-col xl:flex-row my-14 md:mt-0">
   <div class="flex-1 mb-6 xl:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/shipments.png" class="mx-auto w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/shipments.png" class="mx-auto xl:mx-0 w-10/12">
   </div>  
   <div class="xl:w-5/12 xl:self-center">
     <h2 class="text-3xl md:text-5xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Pristatymo būdai</h2>
