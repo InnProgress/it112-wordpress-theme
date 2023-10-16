@@ -21,7 +21,7 @@
 <body <?php body_class(); ?>>
   <div class="container mx-auto px-3">
     <header class="relative z-10 flex justify-between bg-white text-black py-5">
-      <a href="<?php echo esc_url(home_url( '/' )); ?>"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" width="100" alt="logo"></a>
+      <a href="<?php echo esc_url(home_url( '/' )); ?>" class="flex self-center"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" width="100" alt="logo"></a>
 
       <div class="flex items-center">
         <button class="menu-toggle lg:hidden" aria-label="navigation">
