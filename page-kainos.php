@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row justify-between mb-14 md:mb-0">
   <div class="lg:w-6/12 self-center text-center lg:text-left lg:pr-7">
-    <h1 class="text-3xl lg:text-4xl xl:text-5xl font-extrabold uppercase mb-1 md:mb-4">Neįsijungia? Lėtas?<br />O gal sulūžo?</h1>
+    <h1 class="text-3xl lg:text-4xl xl:text-5xl font-bold uppercase mb-1 md:mb-4">Neįsijungia? Lėtas?<br />O gal sulūžo?</h1>
     <p class="text-lg lg:text-xl xl:text-2xl my-2 md:my-5">Nepriklausomai nuo kompiuterio modelio ar gedimo, mes visada pasirengę suteikti aukščiausios kokybės paslaugas.</p>
     <p class="text-lg lg:text-xl xl:text-2xl my-2 md:my-5">Visiems darbams suteikiama <strong>3 mėnesių garantija!</strong></p>
   </div>
