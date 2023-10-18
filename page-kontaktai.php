@@ -1,14 +1,31 @@
 <?php get_header(); ?>
 
-<div class="flex flex-col-reverse lg:flex-row mb-14 md:mb-0">
-  <div class="lg:w-5/12 self-center text-center lg:text-left">
-    <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Susisiekime!</h1>
-    <p class="text-lg md:text-2xl my-2 md:my-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione eveniet cumque mollitia qui ut enim corporis dignissimos itaque velit, ipsam nobis a illum quidem obcaecati? Iure quia unde quo doloremque? 
-        <a href="mailto:info@it112.lt" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">info@it112.lt</a> Lorem ipsum ipsum
-     <a href="tel:+37062249444" class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">+3705...</a> </p>
+<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-0">
+  <div class="flex-1 self-center">
+    <div class="lg:pl-[80px]">
+      <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Susisiekime dabar!</h2>
+      <div class="flex items-center">
+        <div class="w-10 md:w-20">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
+        </div>
+        <div class="ml-5 md:ml-8">
+          <a href="tel:telefonas" class="block text-xl md:text-2xl font-bold">Telefonas</a>
+          <a href="mailto:info@it112.lt" class="block text-xl md:text-2xl font-semibold">info@it112.lt</a>
+        </div>
+      </div>
+      <div class="flex items-center mt-6 md:mt-8">
+        <div class="w-10 md:w-20">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
+        </div>
+        <div class="ml-5 md:ml-8">
+          <p class="text-xl md:text-2xl font-bold">Adresas</p>
+          <p class="text-xl md:text-2xl font-semibold">Darbo laikas</p>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
   </div>
 </div>
 
