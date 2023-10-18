@@ -15,7 +15,7 @@
   <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
-      <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full">
+      <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full border-gray-300">
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
@@ -28,7 +28,7 @@
       </a>
     </div>
     <div class="w-full">
-      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl bg-gray-100 border-solid border-2 hover:border-white w-full">
+      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl bg-gray-100 border-solid border-2 hover:border-white w-full border-gray-300">
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
@@ -41,7 +41,7 @@
       </a>
     </div>
     <div class="w-full">
-      <a href="<?php echo get_page_link(35); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full">
+      <a href="<?php echo get_page_link(35); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full border-gray-300">
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
