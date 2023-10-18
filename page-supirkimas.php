@@ -17,6 +17,7 @@
         <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/calendar-icon.png" width="85" height="85" class="self-center mx-auto">
         </div>
+        <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
         <p class="text-lg md:text-xl">Superkame iki 7 metų senumo nešiojamus ir stacionarius kompiuterius</p>
       </div>  
     </div>
@@ -25,6 +26,7 @@
         <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/check-icon.png" width="95" height="95" class="self-center mx-auto">
         </div>
+        <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
         <p class="text-lg md:text-xl">Domina Hp, Dell, Lenovo, Asus, Acer, Msi, Samsung nešiojami ir stacionarūs kompiuteriai</p>
       </div>  
     </div>
@@ -33,6 +35,7 @@
         <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/warning-icon.png" width="95" height="95" class="self-center mx-auto">
         </div>
+        <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
         <p class="text-lg md:text-xl">Taip pat superkame neįsijungiančius, sulūžusius, apipiltus nešiojamus ir stacionarius kompiuterius</p>
       </div>
     </div>
