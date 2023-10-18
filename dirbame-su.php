@@ -3,7 +3,7 @@
   <div class="working-with-container flex flex-col md:flex-row space-y-14 md:space-y-0 md:space-x-14 justify-center items-center bg-slate-100 rounded-lg px-4 py-9">
     <img src="<?php echo get_template_directory_uri(); ?>/img/dell-logo.png" width="100" height="auto"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/lenovo-logo.png" width="100" height="auto"/>
-    <img src="<?php echo get_template_directory_uri(); ?>/img/asus-logo.png" width="100" height="auto"/>
+    <img src="<?php echo get_template_directory_uri(); ?>/img/asus-logo.png" width="130" height="auto"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/hp-logo.png" width="100" height="auto"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/acer-logo.png" width="100" height="auto"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/dell-logo.png" width="100" height="auto"/>
