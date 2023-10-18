@@ -43,12 +43,12 @@
         <h3 class="text-xl font-bold uppercase mb-1 md:mb-3">Rekvizitai</h3>
         <p class="text-gray-400">
           MB „IT112“<br />
-          Įmonės kodas: <br />
+          Įmonės kodas: 306561580<br />
           PVM: <br />
           Adresas: <br /><br />
 
-          Atsiskaitomoji sąskaita: <br />
-          MB "IT112"
+          Atsiskaitomoji sąskaita: LT077300010181630587<br />
+          „Swedbank”, AB
         </p>
       </div>
     </footer>
