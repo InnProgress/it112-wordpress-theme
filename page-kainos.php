@@ -25,7 +25,7 @@
                 <tbody>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Kompiuterio detalių paieška ir surinkimo darbai</td>
-                        <td class="border-b border-slate-300 p-4 pr-9 text-center">40€</td>
+                        <td class="border-b border-slate-300 p-4 pr-9 text-center">35€</td>
                     </tr>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Diagnostika</td>
