@@ -941,9 +941,19 @@ html {
   padding-right: 1rem;
 }
 
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .py-14 {
@@ -976,14 +986,8 @@ html {
   padding-bottom: 2.25rem;
 }
 
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
-.py-12 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.pb-1 {
+  padding-bottom: 0.25rem;
 }
 
 .pb-5 {
@@ -1000,18 +1004,6 @@ html {
 
 .pt-14 {
   padding-top: 3.5rem;
-}
-
-.pb-3 {
-  padding-bottom: 0.75rem;
-}
-
-.pb-2 {
-  padding-bottom: 0.5rem;
-}
-
-.pb-1 {
-  padding-bottom: 0.25rem;
 }
 
 .text-left {
@@ -1054,12 +1046,12 @@ html {
   font-weight: 800;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
-
 .font-medium {
   font-weight: 500;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .uppercase {
@@ -1303,10 +1295,6 @@ footer .footer-contacts p, footer .footer-contacts a, footer ul.footer__nav li {
 
 .hover\:cursor-default:hover {
   cursor: default;
-}
-
-.hover\:border-8:hover {
-  border-width: 8px;
 }
 
 .hover\:border-black:hover {
