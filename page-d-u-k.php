@@ -17,7 +17,7 @@
 
         <div class="border rounded-md bg-white mb-6">
             <div class="px-5 py-3 border-b">
-                <h2 class="text-xl font-bold">Koks mūsų darbo laikas?</h2>
+                <h2 class="text-xl font-medium">Koks mūsų darbo laikas?</h2>
             </div>
             <div class="px-5 py-3">
                 Mes dirbame I-V, 10-18 val. VI, 10-15 val.
@@ -26,7 +26,7 @@
 
           <div class="border rounded-md bg-white mb-6">
             <div class="px-5 py-3 border-b">
-                <h2 class="text-xl font-bold">Per kiek laiko atliekame kompiuteriui diagnostiką?</h2>
+                <h2 class="text-xl font-medium">Per kiek laiko atliekame kompiuteriui diagnostiką?</h2>
             </div>
             <div class="px-5 py-3">
                 Kiekviena situacija yra individuali. Vidutinškai gedimą nustatome greičiau nei per valandą.
@@ -35,7 +35,7 @@
 
             <div class="border rounded-md bg-white mb-6">
             <div class="px-5 py-3 border-b">
-                <h2 class="text-xl font-bold">Kiek laiko užtrunka aušinimo valymas, termopastos keitimas?</h2>
+                <h2 class="text-xl font-medium">Kiek laiko užtrunka aušinimo valymas, termopastos keitimas?</h2>
             </div>
             <div class="px-5 py-3">
                 Dažniausiai užtrunkame apie 20-30 minučių.
