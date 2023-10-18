@@ -6,7 +6,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/asus-logo.png" width="95" height="95"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/hp-logo.png" width="95" height="95"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/acer-logo.png" width="95" height="95"/>
-    <img src="<?php echo get_template_directory_uri(); ?>/img/dell-logo.png" width="95" height="95"/>
+    <img src="<?php echo get_template_directory_uri(); ?>/img/msi-logo.png" width="95" height="95"/>
     <img src="<?php echo get_template_directory_uri(); ?>/img/samsung-logo.png" width="95" height="95"/>
   </div>
 </div>
