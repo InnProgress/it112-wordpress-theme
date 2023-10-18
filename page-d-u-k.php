@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row justify-between mb-14 md:mb-0">
   <div class="container mx-auto py-12 px-4">
-    <div class="btn btn--blue btn--no-hover rounded-md text-center text-xl uppercase p-3 mb-3">Dažniausiai užduodami klausimai</div>
+    <div class="max-w-3xl btn btn--yellow btn--no-hover rounded-md text-center text-xl uppercase p-3 mb-3">Dažniausiai užduodami klausimai</div>
     
     <div class="max-w-3xl mx-auto">
         <div class="border rounded-md shadow-md bg-white mb-6">
