@@ -20,7 +20,7 @@
         <p class="text-lg md:text-xl">Superkame iki 7 metų senumo nešiojamus ir stacionarius kompiuterius</p>
       </div>  
     </div>
-    <div class="info-block block text-center rounded-xl border-solid border-2 px-3 py-14 w-full">
+    <div class="info-block block text-center rounded-xl border-solid border-2 px-3 py-14 w-full bg-gray-100">
       <div class="info-block__inside w-72">
         <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/check-icon.png" width="95" height="95" class="self-center mx-auto">
