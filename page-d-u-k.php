@@ -7,7 +7,7 @@
     <div class="max-w-3xl mx-auto">
         <div class="border rounded-md shadow-md bg-white mb-6">
             <div class="px-5 py-3 border-b">
-                <h2 class="text-xl font-medium">What is the purpose of this FAQ page?</h2>
+                <h2 class="text-xl font-bold">What is the purpose of this FAQ page?</h2>
             </div>
             <div class="px-5 py-3">
                 This FAQ page provides answers to common questions about our services and platform.
