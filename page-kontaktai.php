@@ -35,6 +35,7 @@
   </div>  
   <div class="lg:w-6/12 self-center">
     <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Kreipkitės jau dabar!</h2>
+    <p class="text-lg md:text-2xl text-center lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Dažniausiai atsakome greičiau nei per valandą.</p>
     <?php echo do_shortcode('[contact-form-7 id="47162d4" title="Kontaktų forma"]'); ?>
     <!-- DO NOT REMOVE THESE COMMENTS AS THEY ARE HERE TO MAKE SURE TAILWIND FINDS CLASSES USED IN CONTACT FORM 7 FORMS TO COMPILE THEM TO CSS, OTHERWISE THEY WILL NOT BE INCLUDED IN FINAL CSS FILE -->
     <!-- mt-1 mt-6 cursor-pointer -->
