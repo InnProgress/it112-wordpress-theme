@@ -50,6 +50,24 @@
                 Jei prieš Windows perrašymą nereikia išsaugoti jokių duomenų, tada užtrunkama apie 1-2 valandas. Tačiau jei duomenis reikia išsaugoti - užtrunkama ilgiau, o laikas priklauso nuo duomenų kiekio.
             </div>
         </div>
+      
+          <div class="border rounded-md bg-white mb-6">
+            <div class="px-5 py-3 border-b">
+                <h2 class="text-xl font-medium">Ar atliktiems darbams suteikiame garantiją?</h2>
+            </div>
+            <div class="px-5 py-3">
+                Visiems remonto darbams bei serviso dalims suteikiame 3 mėnesių garantiją.
+            </div>
+        </div>
+
+          <div class="border rounded-md bg-white mb-6">
+            <div class="px-5 py-3 border-b">
+                <h2 class="text-xl font-medium">Ar kompiuterio remonto metu bus pažeisti/prarasti duomenys?</h2>
+            </div>
+            <div class="px-5 py-3">
+                Ne. Jei yra rizika, kad duomenys gali būti prarasti, mes klientą visada įspėjame. Jūsų duomenų saugumas yra mūsų prioritetas.
+            </div>
+        </div>
 
     </div>
 </div>
