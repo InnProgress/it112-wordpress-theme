@@ -17,7 +17,7 @@
     
     <div>
       
-        <div class="border rounded-md bg-white mb-6">
+        <div class="border rounded-md bg-white mb-6 bg-gray-100">
             <div class="px-5 py-3 border-b">
                 <h2 class="text-xl font-medium">Kokiu adresu mus galite rasti?</h2>
             </div>
