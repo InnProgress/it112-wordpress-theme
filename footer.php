@@ -8,7 +8,7 @@
             <span class="footer-title__last-word-wrapper__accessory bg-zinc-300"></span>
           </span>
         </h2>
-        <p class="text-md md:text-lg">Kokybiškas remontas, greiti sprendimai</p>
+        <p class="text-md md:text-lg">Jokių problemų - tik sprendimai</p>
         <div class="flex space-x-6 mt-8">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
             <img src="<?php echo get_template_directory_uri(); ?>/img/facebook-logo.png" alt="facebook logo" />
