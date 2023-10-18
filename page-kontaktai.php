@@ -3,7 +3,7 @@
 <div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-0">
   <div class="flex-1 self-center">
     <div class="lg:pl-[80px]">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Susisiekime dabar!</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Mūsų kontaktai</h2>
       <div class="flex items-center">
         <div class="w-10 md:w-20">
           <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
@@ -34,7 +34,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full">
   </div>  
   <div class="lg:w-6/12 self-center">
-    <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Kreipkitės, o mes pažadame atsakyti kaip įmanoma greičiau!</h2>
+    <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Kreipkitės jau dabar!</h2>
     <?php echo do_shortcode('[contact-form-7 id="47162d4" title="Kontaktų forma"]'); ?>
     <!-- DO NOT REMOVE THESE COMMENTS AS THEY ARE HERE TO MAKE SURE TAILWIND FINDS CLASSES USED IN CONTACT FORM 7 FORMS TO COMPILE THEM TO CSS, OTHERWISE THEY WILL NOT BE INCLUDED IN FINAL CSS FILE -->
     <!-- mt-1 mt-6 cursor-pointer -->
