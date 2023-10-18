@@ -72,7 +72,7 @@
     <div class="lg:w-max">
       <h2 class="text-2xl md:text-4xl font-bold uppercase mb-2 md:mb-4">Pasitikrink remonto būseną!</h2>
       <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Stebėkite savo įrenginio remonto eigą tiesiogiai mūsų svetainėje.</p>
-      <form>
+      <form action="/remonto-busena">
         <input class="block w-full text-lg rounded-lg border border-solid border-gray-200 px-3 md:px-5 py-3 md:py-5 mb-3 md:mb-5" name="code" placeholder="Įveskite remonto numerį" />
         <button class="btn btn--yellow rounded-lg text-md md:text-xl px-14 py-5">TIKRINTI</a>
       </form>
