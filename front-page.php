@@ -15,35 +15,41 @@
   <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
-      <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
-        <div class="info-block__inside w-48">
-          <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto">
+      <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full">
+        <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
+          <div class="info-block__inside w-48">
+            <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto">
+            </div>
+            <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
+            <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
-          <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
-          <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
         </div>
       </a>
     </div>
     <div class="w-full">
-      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl bg-gray-100 border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
-        <div class="info-block__inside w-48">
-          <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto">
+      <a href="<?php echo get_page_link(39); ?>" class="info-block block text-center rounded-xl bg-gray-100 border-solid border-2 hover:border-white w-full">
+        <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
+          <div class="info-block__inside w-48">
+            <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto">
+            </div>
+            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių surinkimas</h3>
+            <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
-          <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių surinkimas</h3>
-          <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
         </div>
       </a>
     </div>
     <div class="w-full">
-      <a href="<?php echo get_page_link(35); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-8 hover:border-black px-3 pt-14 w-full">
-        <div class="info-block__inside w-48">
-          <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/coins-icon.png" width="95" height="95" class="self-center mx-auto">
+      <a href="<?php echo get_page_link(35); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full">
+        <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
+          <div class="info-block__inside w-48">
+            <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/coins-icon.png" width="95" height="95" class="self-center mx-auto">
+            </div>
+            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių supirkimas</h3>
+            <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
-          <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių supirkimas</h3>
-          <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
         </div>
       </a>
     </div>
