@@ -33,12 +33,21 @@
             </div>
         </div>
 
-            <div class="border rounded-md bg-white mb-6">
+          <div class="border rounded-md bg-white mb-6">
             <div class="px-5 py-3 border-b">
                 <h2 class="text-xl font-medium">Kiek laiko užtrunka aušinimo valymas, termopastos keitimas?</h2>
             </div>
             <div class="px-5 py-3">
                 Dažniausiai užtrunkame apie 20-30 minučių.
+            </div>
+        </div>
+
+          <div class="border rounded-md bg-white mb-6">
+            <div class="px-5 py-3 border-b">
+                <h2 class="text-xl font-medium">Kiek laiko užtrunka Windows perrašymo darbai?</h2>
+            </div>
+            <div class="px-5 py-3">
+                Jei prieš Windows perrašymą nereikia išsaugoti jokių duomenų, tada užtrunkama apie 1-2 valandas. Tačiau jei duomenis reikia išsaugoti - užtrunkama ilgiau, o laikas priklauso nuo duomenų kiekio.
             </div>
         </div>
 
