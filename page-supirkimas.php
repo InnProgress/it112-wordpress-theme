@@ -26,7 +26,7 @@
         <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
           <img src="<?php echo get_template_directory_uri(); ?>/img/check-icon.png" width="95" height="95" class="self-center mx-auto">
         </div>
-        <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Visi modeliai</h3>
+        <h3 class="text-2xl md:text-3xl font-bold uppercase mb-4">Modeliai</h3>
         <p class="text-lg md:text-xl">Domina Hp, Dell, Lenovo, Asus, Acer, Msi, Samsung nešiojami ir stacionarūs kompiuteriai</p>
       </div>  
     </div>
