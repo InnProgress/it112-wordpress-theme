@@ -25,7 +25,7 @@
                 <tbody>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Kompiuterio detalių paieška ir surinkimo darbai</td>
-                        <td class="border-b border-slate-300 p-4 pr-9 text-center">35€</td>
+                        <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
                     </tr>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Diagnostika</td>
@@ -57,7 +57,7 @@
                     </tr>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Pagrindinės plokštės keitimas</td>
-                        <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
+                        <td class="border-b border-slate-300 p-4 pr-9 text-center">25€</td>
                     </tr>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Maitinimo bloko keitimas</td>
@@ -73,7 +73,7 @@
                     </tr>
                     <tr>
                         <td class="p-4 pl-9">Korpuso keitimas</td>
-                        <td class="p-4 pr-9 text-center">35€</td>
+                        <td class="p-4 pr-9 text-center">25€</td>
                     </tr>
                 </tbody>
             </table>
