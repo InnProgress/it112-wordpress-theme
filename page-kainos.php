@@ -73,7 +73,7 @@
                     </tr>
                     <tr>
                         <td class="p-4 pl-9">Korpuso keitimas</td>
-                        <td class="p-4 pr-9 text-center">35€</td>
+                        <td class="p-4 pr-9 text-center">25€</td>
                     </tr>
                 </tbody>
             </table>
