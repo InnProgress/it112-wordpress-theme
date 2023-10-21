@@ -8,6 +8,17 @@ window.onload = () => {
     navigationWrapper.classList.toggle("hidden");
   };
 
+  const submenuButtons = document.querySelectorAll(".menu-item-has-children");
+  submenuButtons.forEach((submenuButton) => {
+    submenuButton.onclick = () => {
+      const submenu = submenuButton.querySelector("ul");
+      submenu.style.display =
+        submenu.style.display === "none" || !submenu.style.display
+          ? "block"
+          : "none";
+    };
+  });
+
   const repairIdInput = document.querySelector(".repair-id-input");
   const statusCheckForm = document.querySelector(".status-check-form");
   if (statusCheckForm) {

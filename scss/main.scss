@@ -35,14 +35,12 @@ header {
     }
 
     li {
+      position: relative;
       text-transform: uppercase;
       font-weight: bold;
       font-size: 1.1rem;
-      border-bottom: 3px solid transparent;
-      margin: 0.4rem 0;
-      border: 2px solid transparent;
-      border-radius: 0.5rem;
-      
+      border-top: 1px solid lightgray;
+
       @media only screen and (min-width: $lg-breakpoint) {
         margin: 0 2rem !important;
         border-radius: 0;
@@ -61,33 +59,82 @@ header {
           padding: 0;
         }
       }
-      
-      &:last-child {
-        border-color: transparent !important;
-        margin-right: 0 !important;
-        margin-bottom: 0 !important;
 
-        a {
-          @extend .btn;
-          @extend .btn--yellow;
-          padding: 1rem 2.5rem;
-          border-radius: 0.5rem;
-          display: block;
-          width: 100%;
+      &.menu-item-has-children > a::after {
+        display: inline-block;
+        content: ' ';
+        background-image: url('../img/arrow-down.png');
+        width: 11px;
+        height: 9px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-left: 5px;
+      }
 
-          @media only screen and (min-width: $lg-breakpoint) {
-            width: auto;
-            display: inline;
+      ul.sub-menu {
+        display: none;
+        li {
+          a {
+            font-weight: normal;
+          }
+        }
+
+        @media only screen and (min-width: $lg-breakpoint) {
+          position: absolute;
+          background-color: white;
+          border-radius: 6px;
+          border: 1px solid lightgray;
+          padding: 6px;
+          width: 200px;
+          top: 100%;
+          left: -15px;
+          li {
+            border: none;
+            border-radius: 6px;
+            margin: 0 !important;
+            
+            a {
+              text-align: left;
+              font-weight: bold;
+              display: block;
+              width: 100%;
+              padding: 3px 8px;
+            }
+            &:hover {
+              background-color: lightgray;
+            }
           }
         }
       }
 
       &:hover, &.current_page_item {
-        border-color: lightgray;
-
         @media only screen and (min-width: $lg-breakpoint) {
           border-color: transparent;
           border-bottom-color: $color-red;
+        }
+      }
+    }
+    > li:last-child {
+      margin-right: 0 !important;
+      margin-bottom: 0 !important;
+      padding-top: 10px;
+      
+      @media only screen and (min-width: $lg-breakpoint) {
+        padding-top: 0;
+        border-color: transparent !important;
+      }
+
+      a {
+        @extend .btn;
+        @extend .btn--yellow;
+        padding: 1rem 2.5rem;
+        border-radius: 0.5rem;
+        display: block;
+        width: 100%;
+
+        @media only screen and (min-width: $lg-breakpoint) {
+          width: auto;
+          display: inline;
         }
       }
     }
