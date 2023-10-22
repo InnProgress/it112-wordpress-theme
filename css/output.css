@@ -1505,6 +1505,14 @@ footer .social-media-logo:hover {
     margin-top: 2rem;
   }
 
+  .md\:mr-0 {
+    margin-right: 0px;
+  }
+
+  .md\:ml-0 {
+    margin-left: 0px;
+  }
+
   .md\:block {
     display: block;
   }
@@ -1515,6 +1523,10 @@ footer .social-media-logo:hover {
 
   .md\:w-full {
     width: 100%;
+  }
+
+  .md\:w-5\/12 {
+    width: 41.666667%;
   }
 
   .md\:flex-row {
