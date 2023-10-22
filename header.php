@@ -25,7 +25,8 @@
 
       <div class="flex items-center">
         <button class="menu-toggle lg:hidden" aria-label="navigation">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/hamburger-icon.svg" width="64" height="64" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/hamburger-icon.png" width="48" height="48" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/x-icon.png" class="hidden" width="48" height="48" />
         </button>
         <div class="header-navigation-wrapper max-lg:absolute max-lg:top-20 max-lg:left-0 max-lg:shadow-lg max-lg:bg-white max-lg:w-full pb-5 lg:pb-0 hidden lg:block">
           <?php

@@ -3,9 +3,12 @@ window.onload = () => {
   const navigationWrapper = document.querySelector(
     ".header-navigation-wrapper"
   );
-
   toggleButton.onclick = () => {
     navigationWrapper.classList.toggle("hidden");
+
+    toggleButton
+      .querySelectorAll("img")
+      .forEach((img) => img.classList.toggle("hidden"));
   };
 
   const submenuButtons = document.querySelectorAll(".menu-item-has-children");

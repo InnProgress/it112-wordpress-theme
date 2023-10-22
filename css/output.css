@@ -572,6 +572,10 @@ html {
   }
 }
 
+.invisible {
+  visibility: hidden;
+}
+
 .relative {
   position: relative;
 }
