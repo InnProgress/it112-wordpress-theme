@@ -114,7 +114,7 @@ header {
       }
 
       a:hover, &.current_page_item a {
-        background-color: #e7e7e7;
+        background-color: #f5f5f5;
         @media only screen and (min-width: $lg-breakpoint) {
           background-color: transparent;
         }
@@ -123,7 +123,7 @@ header {
       &:hover, &.current_page_item {
         @media only screen and (min-width: $lg-breakpoint) {
           border-color: transparent;
-          border-bottom-color: $color-red;
+          border-bottom-color: $color-blue;
         }
       }
     }
@@ -204,6 +204,12 @@ footer {
   }
   .footer-contacts p, .footer-contacts a, ul.footer__nav li {
     margin: 0.75rem 0;
+  }
+  .social-media-logo {
+    transition: 0.2s;
+    &:hover {
+      filter: brightness(0) saturate(0%);
+    }
   }
 }
 

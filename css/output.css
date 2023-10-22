@@ -589,6 +589,11 @@ html {
   margin-right: auto;
 }
 
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
 .my-14 {
   margin-top: 3.5rem;
   margin-bottom: 3.5rem;
@@ -607,11 +612,6 @@ html {
 .my-5 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
-}
-
-.my-1 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
 }
 
 .mb-1 {
@@ -1209,7 +1209,7 @@ header nav ul.header__nav li ul.sub-menu li a {
 }
 
 header nav ul.header__nav li a:hover, header nav ul.header__nav li.current_page_item a {
-  background-color: #e7e7e7;
+  background-color: #f5f5f5;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -1219,7 +1219,7 @@ header nav ul.header__nav li a:hover, header nav ul.header__nav li.current_page_
 
   header nav ul.header__nav li:hover, header nav ul.header__nav li.current_page_item {
     border-color: transparent;
-    border-bottom-color: #ff004e;
+    border-bottom-color: #0096ff;
   }
 }
 
@@ -1301,6 +1301,14 @@ footer .footer-title__last-word-wrapper__accessory {
 
 footer .footer-contacts p, footer .footer-contacts a, footer ul.footer__nav li {
   margin: 0.75rem 0;
+}
+
+footer .social-media-logo {
+  transition: 0.2s;
+}
+
+footer .social-media-logo:hover {
+  filter: brightness(0) saturate(0%);
 }
 
 .right-icon {

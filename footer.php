@@ -11,10 +11,10 @@
         <p class="text-md md:text-lg">Jokių problemų - tik sprendimai</p>
         <div class="flex space-x-6 mt-8">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/facebook-logo.png" alt="facebook logo" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/facebook-logo.png" class="social-media-logo" alt="facebook logo" />
           </a>
           <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/tiktok-logo.png" alt="tiktok logo" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/tiktok-logo.png" class="social-media-logo" alt="tiktok logo" />
           </a>
         </div>
       </div>
