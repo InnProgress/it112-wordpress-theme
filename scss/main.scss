@@ -42,13 +42,13 @@ header {
       border-top: 1px solid lightgray;
 
       @media only screen and (min-width: $lg-breakpoint) {
-        margin: 0 1.6rem !important;
+        margin: 0 0.8rem !important;
         border-radius: 0;
         border: none;
         border-bottom: 3px solid transparent;
       }
       @media only screen and (min-width: $xl-breakpoint) {
-        margin: 0 2.6125rem !important;
+        margin: 0 2.2125rem !important;
       }
 
       a {

@@ -26,13 +26,13 @@ header nav ul.header__nav {
     border-top: 1px solid lightgray; }
     @media only screen and (min-width: 1024px) {
       header nav ul.header__nav li {
-        margin: 0 1.6rem !important;
+        margin: 0 0.8rem !important;
         border-radius: 0;
         border: none;
         border-bottom: 3px solid transparent; } }
     @media only screen and (min-width: 1280px) {
       header nav ul.header__nav li {
-        margin: 0 2.6125rem !important; } }
+        margin: 0 2.2125rem !important; } }
     header nav ul.header__nav li a {
       display: block;
       padding: 1rem 2.5rem; }
