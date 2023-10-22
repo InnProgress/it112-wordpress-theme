@@ -11,10 +11,10 @@
   </div>
 </div>
 
-<div class="flex flex-col-reverse lg:flex-row justify-between mb-14 md:mb-0">
+<div class="flex flex-col-reverse lg:flex-row justify-between mb-6 md:mb-0">
   <div class="container mx-auto pt-2 pb-5 px-4">
 
-    <div class="text-center mb-14">
+    <div class="text-center mb-6 lg:mb-14">
       <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">D.U.K.</h2>
     </div>
     

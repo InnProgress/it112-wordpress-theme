@@ -1,16 +1,16 @@
 <?php get_header(); ?>
 
-<div class="flex flex-col-reverse lg:flex-row mb-14 md:mb-0">
+<div class="flex flex-col-reverse lg:flex-row mb-4 md:mb-0">
   <div class="lg:w-5/12 self-center text-center lg:text-left">
     <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Reikia stacionaraus kompiuterio?</h1>
-    <p class="text-lg md:text-2xl my-2 md:my-5">Galime surinkti itin galingus, žaidimams ir sudėtingam darbui pritaikytus arba biudžetinius, mokslams ir įprastam laisvalaikiui skirtus stacionarius kompiuterius. Parinksime tik kokybiškus komponentus. Suteiksime garantiją.</p>
+    <p class="text-lg md:text-2xl text-justify lg:text-left my-2 md:my-5">Galime surinkti itin galingus, žaidimams ir sudėtingam darbui pritaikytus arba biudžetinius, mokslams ir įprastam laisvalaikiui skirtus stacionarius kompiuterius. Parinksime tik kokybiškus komponentus. Suteiksime garantiją.</p>
   </div>
-  <div class="flex-1">
+  <div class="flex-1 mb-3 lg:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
   </div>
 </div>
 
-<div class="text-center mt-14 mb-14">
+<div class="text-center mt-6 lg:mt-14 mb-14">
   <div class="flex flex-col xl:flex-row space-y-6 xl:space-y-0 xl:space-x-6 py-5 text-xl">
     <div class="info-block block text-center rounded-xl border-solid border-2 border-gray-300 px-3 py-14 w-full">
       <div class="info-block__inside">

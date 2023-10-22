@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-  <div class="flex-1">
+  <div class="flex-1 mb-4 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
   </div>
 </div>

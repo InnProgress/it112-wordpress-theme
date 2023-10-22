@@ -3,7 +3,7 @@
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
     <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">KOMPIUTERIŲ SERVISAS VILNIUJE</h1>
-    <p class="text-lg md:text-xl lg:text-2xl my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
+    <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">PASLAUGŲ KAINOS</a>
   </div>
   <div class="flex-1">
@@ -62,7 +62,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk įrenginį paštomatu!</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste?<br>Saugiai siųskite savo įrenginį paštomatu ir mes jį sutvarkysime!</p>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste?<br>Saugiai siųskite savo įrenginį paštomatu ir mes jį sutvarkysime!</p>
     <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
@@ -78,18 +78,18 @@
       </form>
     </div>  
   </div>
-  <div class="flex flex-1 justify-end">
+  <div class="flex flex-1 justify-end mb-2 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/search.png">
   </div>
 </div>
 
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
-  <div class="flex-1">
+  <div class="flex-1 mb-2 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/error-troubleshooting.png" class="mx-auto md:mx-0 w-11/12">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių remontas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Mes tvirtai laikomės aukštų kokybės standartų. Teikiame aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Mūsų komanda stengiasi greitai rasti kiekvienos problemos sprendimus.</p>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mes tvirtai laikomės aukštų kokybės standartų. Teikiame aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Mūsų komanda stengiasi greitai rasti kiekvienos problemos sprendimus.</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
@@ -97,21 +97,21 @@
 <div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Stacionarių kompiuterių surinkimas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
+    <p class="text-lg md:text-xl text-justify md:text-justify my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
     <a href="<?php echo get_page_link(39); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
-  <div class="flex-1">
+  <div class="flex-1 mb-5 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mx-0 w-11/12">
   </div>
 </div>
 
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
-  <div class="flex-1">
+  <div class="flex-1 mb-4 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/coins.png" class="mx-auto md:mx-0 w-11/12">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių supirkimas</h2>
-    <p class="text-lg md:text-xl my-3 md:my-5">Superkame Hp, Dell, Lenovo, Asus, Acer, Msi, Samsung nešiojamus bei stacionarius kompiuterius. Tai yra puiki galimybė atsikratyti sena kompiuterine įranga ir įsigyti naują. Mes vertiname naudotus kompiuterius pagal jų būklę ir technines specifikacijas. Galime pasiūlyti itin gerą kainą.</p>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Superkame Hp, Dell, Lenovo, Asus, Acer, Msi, Samsung nešiojamus bei stacionarius kompiuterius. Tai yra puiki galimybė atsikratyti sena kompiuterine įranga ir įsigyti naują. Mes vertiname naudotus kompiuterius pagal jų būklę ir technines specifikacijas. Galime pasiūlyti itin gerą kainą.</p>
     <a href="<?php echo get_page_link(35); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
@@ -140,7 +140,7 @@
       </div>
     </div>
   </div>
-  <div class="flex-1">
+  <div class="flex-1 mb-4 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
   </div>
 </div>
