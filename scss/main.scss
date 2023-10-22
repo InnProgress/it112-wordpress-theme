@@ -60,6 +60,12 @@ header {
         }
       }
 
+      @media only screen and (min-width: $lg-breakpoint) {
+        &.menu-item-has-children:hover > ul.sub-menu {
+          display: block;
+        }
+      }
+
       &.menu-item-has-children > a::after {
         display: inline-block;
         content: ' ';
@@ -90,7 +96,7 @@ header {
           left: -15px;
           li {
             border: none;
-            border-radius: 6px;
+            border-radius: 5px;
             margin: 0 !important;
             
             a {
@@ -101,9 +107,16 @@ header {
               padding: 3px 8px;
             }
             &:hover {
-              background-color: lightgray;
+              background-color: #e7e7e7;
             }
           }
+        }
+      }
+
+      a:hover, &.current_page_item a {
+        background-color: #e7e7e7;
+        @media only screen and (min-width: $lg-breakpoint) {
+          background-color: transparent;
         }
       }
 

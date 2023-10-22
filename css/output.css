@@ -1130,6 +1130,10 @@ header nav ul.header__nav li a {
     display: inline;
     padding: 0;
   }
+
+  header nav ul.header__nav li.menu-item-has-children:hover > ul.sub-menu {
+    display: block;
+  }
 }
 
 header nav ul.header__nav li.menu-item-has-children > a::after {
@@ -1165,7 +1169,7 @@ header nav ul.header__nav li ul.sub-menu li a {
 
   header nav ul.header__nav li ul.sub-menu li {
     border: none;
-    border-radius: 6px;
+    border-radius: 5px;
     margin: 0 !important;
   }
 
@@ -1178,7 +1182,17 @@ header nav ul.header__nav li ul.sub-menu li a {
   }
 
   header nav ul.header__nav li ul.sub-menu li:hover {
-    background-color: lightgray;
+    background-color: #e7e7e7;
+  }
+}
+
+header nav ul.header__nav li a:hover, header nav ul.header__nav li.current_page_item a {
+  background-color: #e7e7e7;
+}
+
+@media only screen and (min-width: 1024px) {
+  header nav ul.header__nav li a:hover, header nav ul.header__nav li.current_page_item a {
+    background-color: transparent;
   }
 
   header nav ul.header__nav li:hover, header nav ul.header__nav li.current_page_item {
