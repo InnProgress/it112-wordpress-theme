@@ -23,7 +23,7 @@
         <div class="footer-contacts text-gray-400">
           <p>Adresas</p>
           <a href="tel:+37068415103" class="block">Telefonas</a>
-          <a href="mailto:info@pavadinimas.lt" class="block">info@it112.lt</a>
+          <a href="mailto:info@it112.lt" class="block">info@it112.lt</a>
         </div>
       </div>
       <div class="col-span-6 md:col-span-2 xl:col-span-1">
