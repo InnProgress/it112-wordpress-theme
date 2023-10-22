@@ -12,6 +12,7 @@ window.onload = () => {
   submenuButtons.forEach((submenuButton) => {
     submenuButton.onclick = () => {
       const submenu = submenuButton.querySelector("ul");
+      if (window.innerWidth > 1024) return (submenu.style.display = "");
       submenu.style.display =
         submenu.style.display === "none" || !submenu.style.display
           ? "block"
