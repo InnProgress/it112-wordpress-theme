@@ -251,15 +251,18 @@ footer {
   background-color: $color-green;
 }
 
-.wpcf7 form .wpcf7-response-output {
+.wpcf7 form .wpcf7-response-output, .form-message {
   text-align: center;
   font-weight: bold;
   color: black;
   border-radius: 8px;
 
-  margin: 0 0 1rem;
   padding: 0.4rem 0.5rem;
   border: 2px solid transparent;
+}
+
+.wpcf7 form .wpcf7-response-output {
+  margin: 0 0 1rem;
 }
 
 .wpcf7 form.sent .wpcf7-response-output {
@@ -271,7 +274,8 @@ footer {
 .wpcf7 form.unaccepted .wpcf7-response-output,
 .wpcf7 form.spam .wpcf7-response-output,
 .wpcf7 form.failed .wpcf7-response-output,
-.wpcf7 form.aborted .wpcf7-response-output {
+.wpcf7 form.aborted .wpcf7-response-output,
+.form-message--error {
   border-color: #CC516B;
   background-color: #E76C86;
 }

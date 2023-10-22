@@ -28,6 +28,7 @@ window.onload = () => {
     });
     let code = params.code;
     if (code) {
+      document.querySelector(".repair-id-input").value = code;
       displayDeviceStatus(code);
     }
 
@@ -41,28 +42,37 @@ window.onload = () => {
   }
 };
 
-const displayDeviceStatus = (code) => {
+const displayDeviceStatus = async (code) => {
   // show loading indicator
 
-  // make api call
-
-  const data = {
-    model: "Dell Latitude 3510",
-    price: "120€",
-    statusUpdates: [
-      {
-        status:
-          "Laukiame naujo aušintuvo. Apie 2-3 savaites. Test test test test test test.",
-        date: "2023-08-26 11:05",
+  const response = await fetch(
+    "https://api.it112.lt/api/dashboard/serviceInfo?serviceId=" + code,
+    {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
       },
-      {
-        status: "Testing",
-        date: "2023-09-01 12:01",
-      },
-    ],
-  };
+    }
+  );
 
   const container = document.querySelector(".status-check-container");
+
+  const status = await response.json();
+  if (status.message) {
+    document.querySelector(
+      ".error-wrapper"
+    ).innerHTML = `<div class="form-message form-message--error mt-6">${status.message}</div>`;
+  }
+
+  const data = {
+    model: status.service.deviceModel,
+    price: status.service.price + "€",
+    statusUpdates: status.comments.map((comment) => ({
+      status: comment.comment,
+      date: new Date(comment.createdAt).toLocaleString("lt-LT"),
+    })),
+  };
+
   container.innerHTML = `
     <div>
       <div class="mb-2">
