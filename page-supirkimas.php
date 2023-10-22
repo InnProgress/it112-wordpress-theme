@@ -50,7 +50,7 @@
     <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Supirkimo forma</h2>
     <?php echo do_shortcode('[contact-form-7 id="581349b" title="Supirkimo forma"]'); ?>
     <!-- DO NOT REMOVE THESE COMMENTS AS THEY ARE HERE TO MAKE SURE TAILWIND FINDS CLASSES USED IN CONTACT FORM 7 FORMS TO COMPILE THEM TO CSS, OTHERWISE THEY WILL NOT BE INCLUDED IN FINAL CSS FILE -->
-    <!-- mt-1 cursor-pointer -->
+    <!-- mt-1 cursor-pointer my-1 -->
   </div>
 </div>
 
