@@ -100,8 +100,8 @@
     <p class="text-lg md:text-xl text-justify md:text-justify my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
     <a href="<?php echo get_page_link(39); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
-  <div class="flex-1 mb-5 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:ml-0 md:mr-0 w-11/12">
+  <div class="md:w-6/12 mb-5 md:mb-0">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mr-0 w-11/12">
   </div>
 </div>
 

@@ -1632,6 +1632,10 @@ footer .social-media-logo:hover {
     width: 100%;
   }
 
+  .md\:w-6\/12 {
+    width: 50%;
+  }
+
   .md\:flex-row {
     flex-direction: row;
   }
