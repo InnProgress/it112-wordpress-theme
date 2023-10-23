@@ -144,7 +144,7 @@
   </div>
 
   <div class="text-center">
-    <a href="<?php echo get_post_type_archive_link('post'); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5 ml-6">VISOS NAUJIENOS</a>
+    <a href="<?php echo get_post_type_archive_link('post'); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">VISOS NAUJIENOS</a>
   </div>
 </div>
 
