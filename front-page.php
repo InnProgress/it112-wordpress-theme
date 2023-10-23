@@ -117,7 +117,7 @@
 </div>
 
 <div class="mb-14">
-  <h2 class="text-2xl md:text-4xl font-extrabold text-center lg:text-left mb-3 lg:mb-8 lg:ml-4 uppercase">Naujienos</h2>
+  <h2 class="text-2xl md:text-4xl font-extrabold text-center lg:text-left mb-3 lg:mb-8 lg:ml-2 uppercase">Naujienos</h2>
   
   <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-6 mb-7">
     <?php
