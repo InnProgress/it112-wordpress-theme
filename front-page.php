@@ -116,6 +116,38 @@
   </div>
 </div>
 
+<div class="mb-14">
+  <h2 class="text-2xl md:text-4xl font-extrabold text-center lg:text-left mb-3 lg:mb-8 uppercase">Naujienos</h2>
+  
+  <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-6 mb-7">
+    <?php
+      $args = array(
+        'numberposts' => 3
+      );
+      
+      $latest_posts = get_posts($args);
+    ?>
+
+    <?php foreach ($latest_posts as $key=>$post) :
+      setup_postdata($post); ?>
+      <a href="<?php echo get_permalink(); ?>" class="block flex-1 rounded-2xl border-8 border-transparent hover:border-black transition-all">
+        <div class="<?php echo $key % 2 != 0 ? "bg-gray-100" : ""; ?> border-2 border-gray-300 hover:border-transparent rounded-xl h-full transition-all">
+          <div style="background-image: url(<?php echo get_the_post_thumbnail_url(); ?>);" class="w-full h-60 bg-cover bg-center rounded-t-xl"></div>
+          <div class="py-4 px-7">
+            <h3 class="text-2xl md:text-3xl font-bold"><?php the_title(); ?></h3>
+            <span class="block text-lg mt-2"><?php echo get_the_date(); ?></span>
+          </div>
+        </div>
+      </a>
+
+    <?php wp_reset_postdata(); endforeach; ?>
+  </div>
+
+  <div class="text-center">
+    <a href="<?php echo get_post_type_archive_link('post'); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5 ml-6">VISOS NAUJIENOS</a>
+  </div>
+</div>
+
 <div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-0">
   <div class="flex-1 self-center">
     <div class="lg:pl-[80px]">
