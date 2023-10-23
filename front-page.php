@@ -157,7 +157,7 @@
           <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
         </div>
         <div class="ml-5 md:ml-8">
-          <a href="tel:telefonas" class="block text-xl md:text-2xl font-bold">Telefonas</a>
+          <a href="tel:+37065804435" class="block text-xl md:text-2xl font-bold">+370 658 04435</a>
           <a href="mailto:info@it112.lt" class="block text-xl md:text-2xl font-semibold">info@it112.lt</a>
         </div>
       </div>
@@ -166,7 +166,7 @@
           <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
         </div>
         <div class="ml-5 md:ml-8">
-          <p class="text-xl md:text-2xl font-bold">Adresas</p>
+          <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
           <p class="text-xl md:text-2xl font-semibold">Darbo laikas</p>
         </div>
       </div>
