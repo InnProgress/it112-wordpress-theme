@@ -1771,6 +1771,10 @@ footer .social-media-logo:hover {
     margin-bottom: 2rem;
   }
 
+  .lg\:ml-4 {
+    margin-left: 1rem;
+  }
+
   .lg\:block {
     display: block;
   }
