@@ -61,7 +61,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/messenger.png" class="mx-auto md:mx-0 w-10/12" alt="Kompiuterių remontas Vilniuje">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
-    <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk įrenginį paštomatų ar kurjerių pagalba!</h2>
+    <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk paštomatu ar kurjeriu!</h2>
     <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste? Saugiai siųskite savo kompiuterį ir mes jį sutvarkysime!</p>
     <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
