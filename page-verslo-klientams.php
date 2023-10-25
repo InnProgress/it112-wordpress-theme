@@ -6,7 +6,7 @@
     <p class="text-lg md:text-2xl text-justify lg:text-left my-2 md:my-5">Informacija ruošiama!</p>
   </div>
   <div class="flex-1 mb-6 lg:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/delivery-guy.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/delivery-guy.png" class="mx-auto lg:ml-auto lg:mr-0 w-10/12" alt="Sugedo kompiuteris">
   </div>
 </div>
 
