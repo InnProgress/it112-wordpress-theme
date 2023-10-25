@@ -11,18 +11,18 @@
         <p class="text-md md:text-lg">Jokių problemų - tik sprendimai</p>
         <div class="flex space-x-6 mt-8">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/facebook-logo.png" class="social-media-logo" alt="facebook logo" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/facebook-logo.png" class="social-media-logo" alt="Nešiojamų kompiuterių remontas Vilniuje" />
           </a>
           <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/tiktok-logo.png" class="social-media-logo" alt="tiktok logo" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/tiktok-logo.png" class="social-media-logo" alt="Kompiuterių taisykla Vilniuje" />
           </a>
         </div>
       </div>
       <div class="col-span-6 md:col-span-2 xl:col-span-1">
         <h3 class="text-xl font-bold uppercase mb-1 md:mb-3">Kontaktai</h3>
         <div class="footer-contacts text-gray-400">
-          <p>Adresas</p>
-          <a href="tel:+37068415103" class="block">Telefonas</a>
+          <p>Kalvarijų g. 2, Vilnius</p>
+          <a href="tel:+37065804435" class="block">+370 658 04435</a>
           <a href="mailto:info@it112.lt" class="block">info@it112.lt</a>
         </div>
       </div>
