@@ -11,7 +11,7 @@
     </form>
   </div>
   <div class="flex flex-1 justify-end items-center">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/remote-working.png" class="mx-auto md:mx-0 w-11/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/remote-working.png" class="mx-auto md:mx-0 w-11/12" alt="Kompiuterių remontas Vilniuje">
   </div>
 </div>
 
