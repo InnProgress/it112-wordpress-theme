@@ -24,7 +24,7 @@
           <h2 class="text-xl font-medium">Kokiu adresu mus galite rasti?</h2>
         </div>
         <div class="px-5 py-3">
-          Adresas.
+          Kalvarijų g. 2, Vilnius. Esame įsikūrę šalia CUP prekybos centro. Labai patogu atvykti autobusu - pro langą matosi „Žaliojo tilto“ stotelė.
         </div>
       </div>
       
