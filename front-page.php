@@ -89,7 +89,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Sugedo kompiuteris?</h2>
-    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mūsų tikslas - greitai nustatyti gedimus bei suteikti aukštos kokybės nešiojamų ir stacionarių kompiuterių remonto paslaugas. Nesvarbu su kokiomis problemomis kompiuteris susidūrė, esame pasirengę visas jas išspręsti.</p>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mūsų tikslas - greitai nustatyti gedimus bei suteikti aukštos kokybės nešiojamų ir stacionarių kompiuterių remonto paslaugas. Nesvarbu su kokiomis problemomis Jūsų įrenginys susidūrė, esame pasirengę visas jas išspręsti.</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
