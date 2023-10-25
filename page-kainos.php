@@ -2,18 +2,18 @@
 
 <div class="flex flex-col-reverse lg:flex-row justify-between mb-7 lg:mb-12">
   <div class="lg:w-6/12 self-center text-center lg:text-left lg:pr-7">
-    <h1 class="text-3xl lg:text-4xl xl:text-5xl font-bold uppercase mb-1 md:mb-4">Neįsijungia? Lėtas?<br />O gal sulūžo?</h1>
+    <h1 class="text-3xl lg:text-4xl xl:text-5xl font-bold uppercase mb-1 md:mb-4">Sugedo kompiuteris? Lėtas?<br />O gal sulūžo?</h1>
     <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Nepriklausomai nuo kompiuterio modelio ar gedimo, mes visada pasirengę suteikti aukščiausios kokybės paslaugas.</p>
-    <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Visiems darbams suteikiama <strong>3 mėnesių garantija!</strong></p>
+    <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Visiems darbams suteikiama 3 mėnesių garantija!</p>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/maintenance.png" class="mx-auto w-9/12 lg:w-full">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/maintenance.png" class="mx-auto w-9/12 lg:w-full" alt="Kompiuterių taisykla">
   </div>
 </div>
 
 <div class="flex flex-col-reverse md:flex-row md:space-x-3 md:space-y-0">
     <div class="flex-1 md:mb-6">
-        <div class="btn btn--blue btn--no-hover rounded-md text-center text-xl uppercase p-3">Stacionarūs kompiuteriai</div>
+        <div class="btn btn--blue btn--no-hover rounded-md text-center text-xl uppercase p-3">Stacionarių kompiuterių remontas</div>
         <div class="border border-solid border-slate-300 rounded-lg mt-5">
             <table class="border-collapse w-full text-left">
                 <thead>
@@ -80,7 +80,7 @@
         </div>
     </div>
     <div class="flex-1 mb-6 md:mb-0">
-        <div class="btn btn--yellow btn--no-hover rounded-md text-center text-xl uppercase p-3">Nešiojami kompiuteriai</div>
+        <div class="btn btn--yellow btn--no-hover rounded-md text-center text-xl uppercase p-3">Nešiojamų kompiuterių remontas</div>
         <div class="border border-solid border-slate-300 rounded-lg mt-5">
             <table class="border-collapse w-full text-left">
                 <thead>
