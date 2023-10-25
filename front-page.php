@@ -21,7 +21,7 @@
             <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
               <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto">
             </div>
-            <h3 class="text-xl md:text-2xl font-bold uppercase">Remonto paslaugos</h3>
+            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių remontas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
         </div>
