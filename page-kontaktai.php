@@ -6,7 +6,7 @@
       <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">MŪSŲ KONTAKTAI</h2>
       <div class="flex items-center">
         <div class="w-10 md:w-20">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" alt="Kompiuterių remonto kainos"/>
         </div>
         <div class="ml-5 md:ml-8">
           <a href="tel:+37065804435" class="block text-xl md:text-2xl font-bold">+370 658 04435</a>
@@ -15,7 +15,7 @@
       </div>
       <div class="flex items-center mt-6 md:mt-8">
         <div class="w-10 md:w-20">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" alt="Kompiuterių taisykla Vilniuje"/>
         </div>
         <div class="ml-5 md:ml-8">
           <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
@@ -25,13 +25,13 @@
     </div>
   </div>
   <div class="flex-1 mb-4 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12" alt="Kompiuterių taisykla Vilniuje">
   </div>
 </div>
 
 <div class="flex flex-col lg:flex-row mb-14 md:mb-0">
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
   </div>  
   <div class="lg:w-6/12 self-center">
     <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Kreipkitės jau dabar!</h2>
