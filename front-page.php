@@ -62,7 +62,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk įrenginį paštomatu!</h2>
-    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste?<br>Saugiai siųskite savo įrenginį paštomatu ir mes jį sutvarkysime!</p>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste?<br>Saugiai siųskite savo kompiuterį paštomatu ar kurjeriais ir mes jį sutvarkysime!</p>
     <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
@@ -88,8 +88,8 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/error-troubleshooting.png" class="mx-auto md:mx-0 w-11/12">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
-    <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių remontas</h2>
-    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mes tvirtai laikomės aukštų kokybės standartų. Teikiame aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Mūsų komanda stengiasi greitai rasti kiekvienos problemos sprendimus.</p>
+    <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Sugedo kompiuteris?</h2>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mūsų tikslas - greitai nustatyti problemas bei suteikti aukštos kokybės nešiojamųjų ir stacionarių kompiuterių remonto paslaugas. Kreipkitės jau šiandien, visada esame pasirengę padėti!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
 </div>
