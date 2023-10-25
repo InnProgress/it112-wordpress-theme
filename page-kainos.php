@@ -3,7 +3,7 @@
 <div class="flex flex-col-reverse lg:flex-row justify-between mb-7 lg:mb-12">
   <div class="lg:w-6/12 self-center text-center lg:text-left lg:pr-7">
     <h1 class="text-3xl lg:text-4xl xl:text-5xl font-bold uppercase mb-1 md:mb-4">Sugedo kompiuteris? <br/>Lėtas? O gal sulūžo?</h1>
-    <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Nepriklausomai nuo kompiuterio modelio ar gedimo, mes visada pasirengę suteikti aukščiausios kokybės paslaugas. Kompiuterių remontas Vilniuje, Kalvarijų g. 2</p>
+    <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Nepriklausomai nuo kompiuterio modelio ar gedimo, mes visada pasirengę suteikti aukščiausios kokybės paslaugas. Kompiuterių remontas Vilniuje, Kalvarijų g. 2.</p>
     <p class="text-lg lg:text-xl xl:text-2xl text-justify lg:text-left my-2 md:my-5">Visiems darbams suteikiama 3 mėnesių garantija!</p>
   </div>
   <div class="flex-1">
