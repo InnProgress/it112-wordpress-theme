@@ -7,7 +7,7 @@
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">PASLAUGŲ KAINOS</a>
   </div>
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/troubleshooting.png" class="mx-auto w-9/12 md:w-full">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/troubleshooting.png" class="mx-auto w-9/12 md:w-full" alt="Kompiuterių remontas Vilniuje">
   </div>
 </div>
 
@@ -19,7 +19,7 @@
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-              <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių taisykla Vilniuje">
             </div>
             <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių remontas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
@@ -32,7 +32,7 @@
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-              <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių surinkimas Vilniuje">
             </div>
             <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių surinkimas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
@@ -45,7 +45,7 @@
         <div class="transition-all rounded-xl border-solid border-transparent border-8 hover:border-black px-3 pt-14 pb-1">
           <div class="info-block__inside w-48">
             <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
-              <img src="<?php echo get_template_directory_uri(); ?>/img/coins-icon.png" width="95" height="95" class="self-center mx-auto">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/coins-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių supirkimas Vilniuje">
             </div>
             <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių supirkimas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
@@ -58,7 +58,7 @@
 
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
   <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/messenger.png" class="mx-auto md:mx-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/messenger.png" class="mx-auto md:mx-0 w-10/12" alt="Kompiuterių remontas Vilniuje">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk įrenginį paštomatu!</h2>
@@ -79,7 +79,7 @@
     </div>  
   </div>
   <div class="flex flex-1 justify-end mb-2 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/search.png">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/search.png" alt="Kompiuterių servisas Vilniuje">
   </div>
 </div>
 
@@ -101,13 +101,13 @@
     <a href="<?php echo get_page_link(39); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
   </div>
   <div class="md:w-6/12 mb-5 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mr-0 w-11/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mr-0 w-11/12" alt="Stacionarių kompiuterių surinkimas Vilniuje">
   </div>
 </div>
 
 <div class="flex flex-col md:flex-row mb-14 lg:mb-10">
   <div class="flex-1 mb-4 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/coins.png" class="mx-auto md:mx-0 w-11/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/coins.png" class="mx-auto md:mx-0 w-11/12" alt="Kompiuterių supirkimas Vilniuje">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių supirkimas</h2>
@@ -154,7 +154,7 @@
       <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">SUSISIEKIME DABAR!</h2>
       <div class="flex items-center">
         <div class="w-10 md:w-20">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" alt="Sugedo kompiuteris"/>
         </div>
         <div class="ml-5 md:ml-8">
           <a href="tel:+37065804435" class="block text-xl md:text-2xl font-bold">+370 658 04435</a>
@@ -163,7 +163,7 @@
       </div>
       <div class="flex items-center mt-6 md:mt-8">
         <div class="w-10 md:w-20">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" />
+          <img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.png" class="mx-auto" alt="Nešiojamų kompiuterių remontas Vilniuje"/>
         </div>
         <div class="ml-5 md:ml-8">
           <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
@@ -173,7 +173,7 @@
     </div>
   </div>
   <div class="flex-1 mb-4 md:mb-0">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/get-in-touch.png" class="mx-auto md:mx-0 w-10/12" alt="Nešiojamų kompiuterių remontas Vilniuje">
   </div>
 </div>
 
