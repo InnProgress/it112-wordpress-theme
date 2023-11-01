@@ -23,15 +23,15 @@
           <tbody>
             <tr>
               <td class="w-[45%] border-b border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Kurjeriai</td>
-              <td class="border-b border-slate-300 px-8 py-6">Adresas</td>
+              <td class="border-b border-slate-300 px-8 py-6">Kalvarijų g. 2, MB „IT112“</td>
             </tr>
             <tr>
               <td class="w-[45%] border-b border-r border-slate-300 uppercase font-bold px-8 py-6">LP Express</td>
-              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Adresas</td>
+              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Upės g. 9, 09308 Vilnius</td>
             </tr>
             <tr>
               <td class="w-[45%] border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Omniva</td>
-              <td class="border-slate-300 px-8 py-6">Adresas</td>
+              <td class="border-slate-300 px-8 py-6">Vilniaus CUP paštomatas, Upės g. 9</td>
             </tr>
           </tbody>
         </table>
