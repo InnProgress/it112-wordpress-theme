@@ -27,7 +27,7 @@
             </tr>
             <tr>
               <td class="w-[45%] border-b border-r border-slate-300 uppercase font-bold px-8 py-6">LP Express</td>
-              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Upės g. 9, 09308 Vilnius</td>
+              <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Upės g. 9, Vilnius</td>
             </tr>
             <tr>
               <td class="w-[45%] border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Omniva</td>
@@ -45,7 +45,7 @@
   <p class="text-md md:text-xl text-center mt-2 mb-3 md:mt-4 md:mb-6">Pristatymo sąlygos, taisyklės</p>
   <div class="border-2 border-slate-300 rounded-xl text-md md:text-xl p-4 md:px-10 md:py-7">
     <p class="bg-yellow-400 rounded-xl p-4 md:px-10 md:py-7">
-      <strong>Jei norite pristatyti įrenginį remontui, pirmas žingsnis - susisiekti su mumis telefonu ar el. paštu. Aptarsime įrenginio būklę, galimus gedimus bei sprendimo būdus.</strong> Mūsų telefonas: El. paštas: info@it112.lt
+      <strong>Jei norite pristatyti įrenginį remontui, pirmas žingsnis - susisiekti su mumis telefonu ar el. paštu. Aptarsime įrenginio būklę, galimus gedimus bei sprendimo būdus.</strong> Mūsų telefonas: +370 658 04435, el. paštas: info@it112.lt
     </p>
     <p class="p-4 md:px-10 md:py-7">
       <strong>1.</strong> Įrenginį būtina gerai įvinioti į burbulinį popierių tam, kad pristatymo metu atlaikytų įvairius smūgius ar kitų siuntų spaudimą.<br/><br/>
