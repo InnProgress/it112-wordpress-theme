@@ -158,7 +158,7 @@
         </div>
         <div class="ml-5 md:ml-8">
           <a href="tel:+37065804435" class="block text-xl md:text-2xl font-bold">+370 658 04435</a>
-          <a href="mailto:info@it112.lt" class="block text-xl md:text-2xl font-semibold">info@it112.lt</a>
+          <a href="mailto:info@it112.lt" class="block text-xl md:text-2xl">info@it112.lt</a>
         </div>
       </div>
       <div class="flex items-center mt-6 md:mt-8">
@@ -167,7 +167,7 @@
         </div>
         <div class="ml-5 md:ml-8">
           <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
-          <p class="text-xl md:text-2xl font-semibold">I-V, 10-18 val. VI, 10-15 val.</p>
+          <p class="text-xl md:text-2xl">I-V, 10-18 val. VI, 10-15 val.</p>
         </div>
       </div>
     </div>
