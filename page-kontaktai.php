@@ -40,10 +40,7 @@
   </div>
 </div>
 
-<div class="flex flex-col lg:flex-row mb-14 md:mb-0">
-  <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
-  </div>  
+<div class="flex flex-col lg:flex-row mb-14 md:mb-0"> 
   <div class="lg:w-6/12 self-center">
     <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Kreipkitės jau dabar!</h2>
     <p class="text-lg md:text-2xl text-center lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Visada stengiamės atsakyti kaip įmanoma greičiau.</p>
@@ -52,6 +49,9 @@
     <!-- DO NOT REMOVE THESE COMMENTS AS THEY ARE HERE TO MAKE SURE TAILWIND FINDS CLASSES USED IN CONTACT FORM 7 FORMS TO COMPILE THEM TO CSS, OTHERWISE THEY WILL NOT BE INCLUDED IN FINAL CSS FILE -->
     <!-- mt-1 mt-6 cursor-pointer -->
   </div>
+    <div class="flex-1">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
+  </div> 
 </div>
 
 <?php get_footer(); ?>
