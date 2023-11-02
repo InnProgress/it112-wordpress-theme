@@ -29,6 +29,17 @@
   </div>
 </div>
 
+<div class="flex flex-col md:flex-row mb-14 lg:mb-10">
+  <div class="flex-1">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/bus-stop.png" class="mx-auto md:mx-0 w-10/12" alt="Kompiuterių remontas Vilniuje">
+  </div>
+  <div class="flex-1 self-center text-center md:text-left">
+    <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Itin patogus susisiekimas!</h2>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Atvykite į mūsų saloną autobusu ar troleibusu. Visai šalia mūsų yra viena populiariausių stotelių „Žaliasis tiltas“. Čia važiuoja troleibusai: 3, 6, 10, 12, 14 bei autobusai: 1G, 3G, 6G, 10, 43, 46, 52, 53, 56</p>
+    <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+  </div>
+</div>
+
 <div class="flex flex-col lg:flex-row mb-14 md:mb-0">
   <div class="flex-1">
     <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
