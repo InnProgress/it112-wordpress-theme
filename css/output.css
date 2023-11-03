@@ -1205,7 +1205,6 @@ header nav ul.header__nav {
 
 header nav ul.header__nav li {
   position: relative;
-  text-transform: uppercase;
   font-weight: bold;
   font-size: 1.1rem;
   border-top: 1px solid lightgray;
@@ -1403,7 +1402,6 @@ footer .social-media-logo:hover {
 
 .btn, header nav ul.header__nav > li:last-child a, .page-numbers {
   color: #fff;
-  text-transform: uppercase;
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.3);
   font-weight: bold;
 }
@@ -1612,10 +1610,6 @@ footer .social-media-logo:hover {
     width: 5rem;
   }
 
-  .md\:w-5\/12 {
-    width: 41.666667%;
-  }
-
   .md\:w-6\/12 {
     width: 50%;
   }
@@ -1679,10 +1673,6 @@ footer .social-media-logo:hover {
 
   .md\:text-left {
     text-align: left;
-  }
-
-  .md\:text-justify {
-    text-align: justify;
   }
 
   .md\:text-2xl {
@@ -1824,10 +1814,6 @@ footer .social-media-logo:hover {
     padding-bottom: 0px;
   }
 
-  .lg\:pl-\[100px\] {
-    padding-left: 100px;
-  }
-
   .lg\:pl-\[80px\] {
     padding-left: 80px;
   }
@@ -1906,10 +1892,6 @@ footer .social-media-logo:hover {
 
   .xl\:self-center {
     align-self: center;
-  }
-
-  .xl\:pl-\[130px\] {
-    padding-left: 130px;
   }
 
   .xl\:text-2xl {

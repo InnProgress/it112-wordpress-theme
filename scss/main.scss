@@ -36,7 +36,6 @@ header {
 
     li {
       position: relative;
-      text-transform: uppercase;
       font-weight: bold;
       font-size: 1.1rem;
       border-top: 1px solid lightgray;
@@ -221,7 +220,7 @@ footer {
 
 .btn {
   color: $color-white;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.3);
   font-weight: bold;
 }

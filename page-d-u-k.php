@@ -4,7 +4,7 @@
   <div class="flex-1 self-center text-center md:text-left">
     <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">DAŽNIAUSIAI UŽDUODAMI KLAUSIMAI</h1>
     <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Čia rasite visus populiariausių klausimų atsakymus. Jei reikalingos informacijos neradote - susisiekime telefonu ar elektroniniu paštu.</p>
-    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">KONTAKTAI</a>
+    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">Kontaktai</a>
   </div>
   <div class="flex-1">
     <img src="<?php echo get_template_directory_uri(); ?>/img/DUK.png" class="mx-auto w-9/12 md:w-full" alt="Kompiuterių remonto kainos">

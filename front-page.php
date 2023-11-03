@@ -4,7 +4,7 @@
   <div class="flex-1 self-center text-center md:text-left">
     <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">SKUBI PAGALBA JŪSŲ KOMPIUTERIUI</h1>
     <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
-    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">PASLAUGŲ KAINOS</a>
+    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">Paslaugų kainos</a>
   </div>
   <div class="flex-1">
     <img src="<?php echo get_template_directory_uri(); ?>/img/troubleshooting.png" class="mx-auto w-9/12 md:w-full" alt="Kompiuterių remontas Vilniuje">
@@ -63,7 +63,7 @@
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Pristatyk paštomatu ar kurjeriu!</h2>
     <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Neturite laiko atvykti ar gyvenate kitame mieste? Saugiai siųskite savo kompiuterį ir mes jį sutvarkysime!</p>
-    <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+    <a href="<?php echo get_page_link(42); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">Plačiau</a>
   </div>
 </div>
 
@@ -74,7 +74,7 @@
       <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Stebėkite savo kompiuterio remonto eigą tiesiogiai mūsų svetainėje.</p>
       <form action="/remonto-busena">
         <input class="block w-full text-lg rounded-lg border border-solid border-gray-200 px-3 md:px-5 py-3 md:py-5 mb-3 md:mb-5" name="code" placeholder="Įveskite remonto numerį" />
-        <button class="btn btn--yellow rounded-lg text-md md:text-xl px-14 py-5">TIKRINTI</a>
+        <button class="btn btn--yellow rounded-lg text-md md:text-xl px-14 py-5">Tikrinti</a>
       </form>
     </div>  
   </div>
@@ -90,15 +90,15 @@
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Sugedo kompiuteris?</h2>
     <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Mūsų tikslas - greitai nustatyti gedimus bei suteikti aukštos kokybės nešiojamų ir stacionarių kompiuterių remonto paslaugas. Nesvarbu su kokiomis problemomis Jūsų įrenginys susidūrė, esame pasirengę visas jas išspręsti.</p>
-    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+    <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">Plačiau</a>
   </div>
 </div>
 
 <div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
-  <div class="md:w-5/12 self-center text-center md:text-left">
+  <div class="md:w-6/12 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Stacionarių kompiuterių surinkimas</h2>
-    <p class="text-lg md:text-xl text-justify md:text-justify my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
-    <a href="<?php echo get_page_link(39); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Galime sukomplekuoti stacionarius kompiuterius, atitinkančius įvairius poreikius - tiek žaidimams, tiek darbui ar mokslams. Parenkame tik aukštos kokybės komponentus. Suteikiame garantiją!</p>
+    <a href="<?php echo get_page_link(39); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">Plačiau</a>
   </div>
   <div class="md:w-6/12 mb-5 md:mb-0">
     <img src="<?php echo get_template_directory_uri(); ?>/img/puzzle.png" class="mx-auto md:mr-0 w-11/12" alt="Stacionarių kompiuterių surinkimas Vilniuje">
@@ -112,7 +112,7 @@
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Kompiuterių supirkimas</h2>
     <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Superkame Hp, Dell, Lenovo, Asus, Acer, Msi, Samsung nešiojamus bei stacionarius kompiuterius. Tai yra puiki galimybė atsikratyti sena kompiuterine įranga ir įsigyti naują. Mes vertiname naudotus kompiuterius pagal jų būklę ir technines specifikacijas. Galime pasiūlyti itin gerą kainą.</p>
-    <a href="<?php echo get_page_link(35); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">PLAČIAU</a>
+    <a href="<?php echo get_page_link(35); ?>" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">Plačiau</a>
   </div>
 </div>
 
@@ -144,7 +144,7 @@
   </div>
 
   <div class="text-center">
-    <a href="<?php echo get_post_type_archive_link('post'); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">VISOS NAUJIENOS</a>
+    <a href="<?php echo get_post_type_archive_link('post'); ?>" class="btn btn--yellow rounded-lg inline-block text-md md:text-xl px-14 py-5">Visos naujienos</a>
   </div>
 </div>
 
