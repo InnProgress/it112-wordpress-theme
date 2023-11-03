@@ -43,7 +43,7 @@
 <div class="my-14">
   <h2 class="text-3xl md:text-5xl font-bold text-center uppercase mb-1 md:mb-4">Būtina žinoti</h2>
   <p class="text-md md:text-xl text-center mt-2 mb-3 md:mt-4 md:mb-6">Pristatymo sąlygos, taisyklės</p>
-  <div class="border-2 border-slate-300 rounded-xl text-md md:text-xl p-4 md:px-10 md:py-7">
+  <div class="border-2 border-slate-300 rounded-xl text-md md:text-xl p-4 md:p-7">
     <p class="bg-yellow-400 rounded-xl p-4 md:px-10 md:py-7">
       <strong>Jei norite pristatyti įrenginį remontui, pirmas žingsnis - susisiekti su mumis telefonu ar el. paštu. Aptarsime įrenginio būklę, galimus gedimus bei sprendimo būdus.</strong> Mūsų telefonas: +370 658 04435, el. paštas: info@it112.lt
     </p>

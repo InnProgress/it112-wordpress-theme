@@ -55,10 +55,10 @@
 </div>
 
 <div class="flex flex-col lg:flex-row mb-14 md:mb-0">
-  <div class="flex-1">
+  <div class="flex-1 lg:pr-6">
     <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Neįsijungia kompiuteris">
   </div>  
-  <div class="lg:w-6/12 self-center">
+  <div class="lg:w-6/12 lg:pl-6 self-center">
     <h2 class="text-2xl md:text-4xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Pradėkime jau dabar!</h2>
     <?php echo do_shortcode('[contact-form-7 id="769cef0" title="Surinkimo forma"]'); ?>
     <!-- DO NOT REMOVE THESE COMMENTS AS THEY ARE HERE TO MAKE SURE TAILWIND FINDS CLASSES USED IN CONTACT FORM 7 FORMS TO COMPILE THEM TO CSS, OTHERWISE THEY WILL NOT BE INCLUDED IN FINAL CSS FILE -->

@@ -1650,6 +1650,10 @@ footer .social-media-logo:hover {
     margin-bottom: calc(0px * var(--tw-space-y-reverse));
   }
 
+  .md\:p-7 {
+    padding: 1.75rem;
+  }
+
   .md\:px-10 {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
@@ -1761,6 +1765,18 @@ footer .social-media-logo:hover {
     margin-top: 3.5rem;
   }
 
+  .lg\:mr-6 {
+    margin-right: 1.5rem;
+  }
+
+  .lg\:ml-6 {
+    margin-left: 1.5rem;
+  }
+
+  .lg\:ml-12 {
+    margin-left: 3rem;
+  }
+
   .lg\:block {
     display: block;
   }
@@ -1824,6 +1840,30 @@ footer .social-media-logo:hover {
 
   .lg\:pr-7 {
     padding-right: 1.75rem;
+  }
+
+  .lg\:pl-12 {
+    padding-left: 3rem;
+  }
+
+  .lg\:pr-12 {
+    padding-right: 3rem;
+  }
+
+  .lg\:pl-8 {
+    padding-left: 2rem;
+  }
+
+  .lg\:pr-8 {
+    padding-right: 2rem;
+  }
+
+  .lg\:pl-6 {
+    padding-left: 1.5rem;
+  }
+
+  .lg\:pr-6 {
+    padding-right: 1.5rem;
   }
 
   .lg\:text-left {
