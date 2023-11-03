@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row mt-6 mb-14 md:mb-12">
   <div class="lg:w-5/12 self-center text-center lg:text-left">
-    <h1 class="text-3xl md:text-5xl font-bold uppercase mb-1 md:mb-4">Pristatykite kurjeriu ar paštomatu!</h1>
+    <h1 class="text-3xl md:text-5xl font-bold mb-1 md:mb-4">Pristatykite kurjeriu ar paštomatu!</h1>
     <p class="text-lg md:text-2xl text-justify lg:text-left my-2 md:my-5">Jei neturite laiko atvykti patys ar gyvenate toli nuo mūsų salono, pasinaudokite kurjerių bei paštomatų pagalba. Sutaisysime įrenginį, saugiai įpakuosime ir išsiųsime Jums nemokamai!</p>
   </div>
   <div class="flex-1 mb-6 lg:mb-0">
@@ -15,22 +15,22 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/shipments.png" class="mx-auto xl:mx-0 w-10/12" alt="Stacionarių kompiuterių surinkimas">
   </div>  
   <div class="xl:w-5/12 xl:self-center">
-    <h2 class="text-3xl md:text-5xl font-bold uppercase text-center lg:text-left mb-1 md:mb-4">Pristatymo būdai</h2>
+    <h2 class="text-3xl md:text-5xl font-bold text-center lg:text-left mb-1 md:mb-4">Pristatymo būdai</h2>
     <p class="text-lg md:text-2xl text-justify lg:text-left mt-2 mb-3 md:mt-4 md:mb-6">Siuntų pristatymas dažniausiai trunka vos 1-2 darbo dienas</p>
     <div class="flex-1">
       <div class="border border-solid border-slate-300 rounded-lg overflow-hidden mt-5">
         <table class="border-collapse w-full text-left text-md md:text-xl">
           <tbody>
             <tr>
-              <td class="w-[45%] border-b border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Kurjeriai</td>
+              <td class="w-[45%] border-b border-r border-slate-300 bg-gray-100 font-bold px-8 py-6">Kurjeriai</td>
               <td class="border-b border-slate-300 px-8 py-6">Kalvarijų g. 2, Vilnius. MB „IT112“</td>
             </tr>
             <tr>
-              <td class="w-[45%] border-b border-r border-slate-300 uppercase font-bold px-8 py-6">LP Express</td>
+              <td class="w-[45%] border-b border-r border-slate-300 font-bold px-8 py-6">LP Express</td>
               <td class="border-b border-slate-300 bg-gray-100 px-8 py-6">Upės g. 9, Vilnius</td>
             </tr>
             <tr>
-              <td class="w-[45%] border-r border-slate-300 bg-gray-100 uppercase font-bold px-8 py-6">Omniva</td>
+              <td class="w-[45%] border-r border-slate-300 bg-gray-100 font-bold px-8 py-6">Omniva</td>
               <td class="border-slate-300 px-8 py-6">Vilniaus CUP paštomatas, Upės g. 9</td>
             </tr>
           </tbody>
@@ -41,7 +41,7 @@
 </div>
 
 <div class="my-14">
-  <h2 class="text-3xl md:text-5xl font-bold text-center uppercase mb-1 md:mb-4">Būtina žinoti</h2>
+  <h2 class="text-3xl md:text-5xl font-bold text-center mb-1 md:mb-4">Būtina žinoti</h2>
   <p class="text-md md:text-xl text-center mt-2 mb-3 md:mt-4 md:mb-6">Pristatymo sąlygos, taisyklės</p>
   <div class="border-2 border-slate-300 rounded-xl text-md md:text-xl p-4 md:p-7">
     <p class="bg-yellow-400 rounded-xl p-4 md:px-10 md:py-7">
