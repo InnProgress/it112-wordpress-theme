@@ -435,7 +435,7 @@ video {
 }
 
 html {
-  font-family: 'Asap', system-ui, sans-serif !important;
+  font-family: 'Gabarito', system-ui, sans-serif !important;
 }
 
 *, ::before, ::after {
@@ -1775,6 +1775,10 @@ footer .social-media-logo:hover {
     display: none;
   }
 
+  .lg\:w-10\/12 {
+    width: 83.333333%;
+  }
+
   .lg\:w-11\/12 {
     width: 91.666667%;
   }
@@ -1800,10 +1804,6 @@ footer .social-media-logo:hover {
     width: max-content;
   }
 
-  .lg\:w-10\/12 {
-    width: 83.333333%;
-  }
-
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1822,6 +1822,10 @@ footer .social-media-logo:hover {
 
   .lg\:pb-0 {
     padding-bottom: 0px;
+  }
+
+  .lg\:pl-\[100px\] {
+    padding-left: 100px;
   }
 
   .lg\:pl-\[80px\] {
@@ -1879,10 +1883,6 @@ footer .social-media-logo:hover {
     width: 41.666667%;
   }
 
-  .xl\:w-10\/12 {
-    width: 83.333333%;
-  }
-
   .xl\:rotate-0 {
     --tw-rotate: 0deg;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -1906,6 +1906,10 @@ footer .social-media-logo:hover {
 
   .xl\:self-center {
     align-self: center;
+  }
+
+  .xl\:pl-\[130px\] {
+    padding-left: 130px;
   }
 
   .xl\:text-2xl {
