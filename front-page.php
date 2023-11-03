@@ -2,8 +2,8 @@
 
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
-    <h1 class="text-2xl md:text-4xl font-bold mb-1 md:mb-4">Skubi pagalba Jūsų kompiuteriui</h1>
-    <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
+    <h1 class="text-2xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">Skubi pagalba Jūsų kompiuteriui</h1>
+    <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">Paslaugų kainos</a>
   </div>
   <div class="flex-1">
