@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
-    <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">SKUBI PAGALBA JŪSŲ KOMPIUTERIUI</h1>
+    <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">Skubi pagalba Jūsų kompiuteriui</h1>
     <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">Paslaugų kainos</a>
   </div>
@@ -12,7 +12,7 @@
 </div>
 
 <div class="text-center mt-14 mb-14">
-  <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">MŪSŲ PASLAUGOS</h2>
+  <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-3">Mūsų paslaugos</h2>
   <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 items-center py-5 text-xl font-bold">
     <div class="w-full">
       <a href="<?php echo get_page_link(12); ?>" class="info-block block text-center rounded-xl border-solid border-2 hover:border-transparent w-full border-gray-300">
@@ -21,7 +21,7 @@
             <div class="btn btn--blue btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
               <img src="<?php echo get_template_directory_uri(); ?>/img/service-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių taisykla Vilniuje">
             </div>
-            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių remontas</h3>
+            <h3 class="text-xl md:text-2xl font-bold">Kompiuterių remontas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
         </div>
@@ -34,7 +34,7 @@
             <div class="btn btn--yellow btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
               <img src="<?php echo get_template_directory_uri(); ?>/img/computer-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių surinkimas Vilniuje">
             </div>
-            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių surinkimas</h3>
+            <h3 class="text-xl md:text-2xl font-bold">Kompiuterių surinkimas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="btn btn--red btn--no-hover rounded-md inline-flex text-center p-6 mb-6">
               <img src="<?php echo get_template_directory_uri(); ?>/img/coins-icon.png" width="95" height="95" class="self-center mx-auto" alt="Kompiuterių supirkimas Vilniuje">
             </div>
-            <h3 class="text-xl md:text-2xl font-bold uppercase">Kompiuterių supirkimas</h3>
+            <h3 class="text-xl md:text-2xl font-bold">Kompiuterių supirkimas</h3>
             <p class="info-block__inside__read-more my-5">Skaityti daugiau</p>
           </div>
         </div>
