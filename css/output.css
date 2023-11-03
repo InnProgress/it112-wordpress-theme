@@ -1800,6 +1800,10 @@ footer .social-media-logo:hover {
     width: max-content;
   }
 
+  .lg\:w-11\/12 {
+    width: 91.666667%;
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
