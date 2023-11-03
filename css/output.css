@@ -679,10 +679,6 @@ html {
   margin-left: 1.25rem;
 }
 
-.ml-6 {
-  margin-left: 1.5rem;
-}
-
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -1592,10 +1588,6 @@ footer .social-media-logo:hover {
     margin-bottom: 1.75rem;
   }
 
-  .md\:ml-0 {
-    margin-left: 0px;
-  }
-
   .md\:ml-8 {
     margin-left: 2rem;
   }
@@ -1628,12 +1620,12 @@ footer .social-media-logo:hover {
     width: 41.666667%;
   }
 
-  .md\:w-full {
-    width: 100%;
-  }
-
   .md\:w-6\/12 {
     width: 50%;
+  }
+
+  .md\:w-full {
+    width: 100%;
   }
 
   .md\:flex-row {
@@ -1751,8 +1743,16 @@ footer .social-media-logo:hover {
     margin-bottom: 3.5rem;
   }
 
+  .lg\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
   .lg\:ml-0 {
     margin-left: 0px;
+  }
+
+  .lg\:ml-2 {
+    margin-left: 0.5rem;
   }
 
   .lg\:ml-auto {
@@ -1769,22 +1769,6 @@ footer .social-media-logo:hover {
 
   .lg\:mt-14 {
     margin-top: 3.5rem;
-  }
-
-  .lg\:mb-8 {
-    margin-bottom: 2rem;
-  }
-
-  .lg\:ml-4 {
-    margin-left: 1rem;
-  }
-
-  .lg\:ml-3 {
-    margin-left: 0.75rem;
-  }
-
-  .lg\:ml-2 {
-    margin-left: 0.5rem;
   }
 
   .lg\:block {

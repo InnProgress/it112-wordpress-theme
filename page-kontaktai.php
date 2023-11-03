@@ -50,7 +50,7 @@
     <!-- mt-1 mt-6 cursor-pointer -->
   </div>
     <div class="flex-1">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-auto lg:ml-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/new-entries.png" class="mx-auto lg:mr-0 w-10/12 lg:w-full" alt="Nešiojamų kompiuterių taisykla Vilniuje">
   </div> 
 </div>
 
