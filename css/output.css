@@ -1160,10 +1160,6 @@ html {
   font-weight: 500;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
-
 .uppercase {
   text-transform: uppercase;
 }
@@ -1465,7 +1461,7 @@ footer .social-media-logo:hover {
 }
 
 .wpcf7 form .wpcf7-response-output {
-  margin: 0 0 1rem;
+  margin: 1rem 0 0 0;
 }
 
 .wpcf7 form.sent .wpcf7-response-output {
@@ -1779,6 +1775,10 @@ footer .social-media-logo:hover {
     display: none;
   }
 
+  .lg\:w-11\/12 {
+    width: 91.666667%;
+  }
+
   .lg\:w-2\/6 {
     width: 33.333333%;
   }
@@ -1798,10 +1798,6 @@ footer .social-media-logo:hover {
   .lg\:w-max {
     width: -moz-max-content;
     width: max-content;
-  }
-
-  .lg\:w-11\/12 {
-    width: 91.666667%;
   }
 
   .lg\:flex-row {

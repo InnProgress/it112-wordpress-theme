@@ -197,7 +197,7 @@ footer .social-media-logo {
   border: 2px solid transparent; }
 
 .wpcf7 form .wpcf7-response-output {
-  margin: 0 0 1rem; }
+  margin: 1rem 0 0 0; }
 
 .wpcf7 form.sent .wpcf7-response-output {
   border-color: #37C044;
