@@ -5,7 +5,6 @@
           Kompiuterių servisas
           <span class="footer-title__last-word-wrapper">
             <span class="footer-title__last-word-wrapper__text">Vilniuje</span>
-            <span class="footer-title__last-word-wrapper__accessory bg-zinc-300"></span>
           </span>
         </h2>
         <p class="text-md md:text-lg">Jokių problemų - tik sprendimai</p>
