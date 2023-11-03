@@ -1800,6 +1800,10 @@ footer .social-media-logo:hover {
     width: max-content;
   }
 
+  .lg\:w-10\/12 {
+    width: 83.333333%;
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1873,6 +1877,10 @@ footer .social-media-logo:hover {
 
   .xl\:w-5\/12 {
     width: 41.666667%;
+  }
+
+  .xl\:w-10\/12 {
+    width: 83.333333%;
   }
 
   .xl\:rotate-0 {

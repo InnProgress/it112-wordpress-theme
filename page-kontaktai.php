@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-0">
+<div class="flex flex-col-reverse md:flex-row mb-14 mt-6 lg:mb-0">
   <div class="flex-1 self-center">
     <div class="lg:pl-[80px]">
       <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">MŪSŲ KONTAKTAI</h2>
@@ -35,7 +35,7 @@
   </div>
   <div class="flex-1 self-center text-center md:text-left">
     <h2 class="text-2xl md:text-4xl font-bold uppercase mb-1 md:mb-4">Itin patogus susisiekimas!</h2>
-    <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Atvykite į mūsų saloną autobusu ar troleibusu. Visai šalia mūsų yra viena populiariausių stotelių „Žaliasis tiltas“. Čia važiuoja autobusai: 1G, 3G, 6G, 10, 43, 46, 52, 53, 56, 88 bei troleibusai: 6, 10, 12.</p>
+    <p class="text-lg md:text-xl text-justify md:text-left xl:w-10/12 my-3 md:my-5">Atvykite į mūsų saloną autobusu ar troleibusu. Visai šalia mūsų yra viena populiariausių stotelių „Žaliasis tiltas“. Čia važiuoja autobusai: 1G, 3G, 6G, 10, 43, 46, 52, 53, 56, 88 bei troleibusai: 6, 10, 12.</p>
     <a href="https://www.stops.lt/vilnius/#stop/0101,0102" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">TVARKARAŠTIS</a>
   </div>
 </div>
