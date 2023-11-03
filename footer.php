@@ -45,7 +45,7 @@
           MB „IT112“<br />
           Įmonės kodas: 306561580<br />
           PVM: <br />
-          Adresas: <br /><br />
+          Adresas: Kalvarijų g. 2, Vilnius<br /><br />
 
           Atsiskaitomoji sąskaita: LT077300010181630587<br />
           „Swedbank”, AB
