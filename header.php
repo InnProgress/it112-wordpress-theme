@@ -12,7 +12,7 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="theme-color" content="#000">
 
-  <title><?php bloginfo('name'); ?></title>
+  <title><?php wp_title(); ?></title>
   <?php wp_head(); ?>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
