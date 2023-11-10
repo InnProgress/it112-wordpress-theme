@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row mb-14 md:mb-0">
   <div class="status-check-container self-center w-full lg:w-6/12 text-center lg:text-left pt-8">
-    <h1 class="text-2xl md:text-4xl font-bold mb-2 md:mb-4">Pasitikrink savo kompiuterio remonto eigą</h2>
+    <h1 class="text-2xl md:text-4xl font-bold mb-2 md:mb-4">Pasitikrinkite savo kompiuterio remonto eigą</h2>
     <p class="text-md md:text-xl text-justify lg:text-left my-2 md:my-5">Remonto numeris yra nurodytas kompiuterio priėmimo akte</p>
     <form class="status-check-form">
       <input class="repair-id-input block w-full text-lg rounded-lg border border-solid border-gray-200 px-3 md:px-5 py-3 md:py-5 mb-3 md:mb-5" name="code" placeholder="Įveskite remonto numerį" required />
