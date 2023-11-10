@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<h2 class="text-2xl md:text-4xl font-extrabold my-8 ml-2 uppercase">Naujienos</h2>
+<h1 class="text-2xl md:text-4xl font-extrabold my-8 ml-2 uppercase">Naujienos</h2>
   
 <div class="flex flex-wrap flex-col lg:flex-row space-y-4 lg:space-y-0 mb-7">
   <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
