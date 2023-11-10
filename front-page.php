@@ -167,7 +167,7 @@
         </div>
         <div class="ml-5 md:ml-8">
           <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
-          <p class="text-xl md:text-2xl">I-V, 10-18 val. VI, 10-15 val.</p>
+          <p class="text-xl md:text-2xl">I-V, 10-19 val. VI, 10-15 val.</p>
         </div>
       </div>
     </div>
