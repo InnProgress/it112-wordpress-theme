@@ -3,7 +3,7 @@
 <div class="flex flex-col-reverse md:flex-row mb-14 mt-6 lg:mb-0">
   <div class="flex flex-1 self-center justify-center">
     <div class="w-max">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Mūsų kontaktai</h2>
+      <h1 class="text-3xl md:text-4xl font-bold mb-4 md:mb-7">Mūsų kontaktai</h2>
       <div class="flex items-center">
         <div class="w-10 md:w-20">
           <img src="<?php echo get_template_directory_uri(); ?>/img/call-icon.png" class="mx-auto" alt="Kompiuterių remonto kainos"/>
@@ -34,7 +34,7 @@
     <img src="<?php echo get_template_directory_uri(); ?>/img/bus-stop.png" class="mx-auto md:mx-0 w-10/12" alt="Kompiuterių remontas Vilniuje">
   </div>
   <div class="flex-1 self-center text-center md:text-left">
-    <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-4">Itin patogus susisiekimas!</h2>
+    <h2 class="text-2xl md:text-4xl font-bold mb-1 md:mb-4">Mus rasite prie žalio tilto stotelės!</h2>
     <p class="text-lg md:text-xl text-justify md:text-left my-3 md:my-5">Atvykite į mūsų saloną autobusu ar troleibusu. Visai šalia mūsų yra viena populiariausių stotelių „Žaliasis tiltas“. Čia važiuoja autobusai: 1G, 3G, 6G, 10, 43, 46, 52, 53, 56, 88 bei troleibusai: 6, 10, 12.</p>
     <a href="https://www.stops.lt/vilnius/#stop/0101,0102" class="btn btn--red rounded-lg inline-block text-md md:text-xl px-14 py-5">Tvarkaraštis</a>
   </div>
