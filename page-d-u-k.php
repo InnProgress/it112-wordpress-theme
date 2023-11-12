@@ -33,7 +33,7 @@
           <h2 class="text-xl font-medium">Koks mūsų darbo laikas?</h2>
         </div>
         <div class="px-5 py-3">
-          Mes dirbame I-V, 10-18 val. VI, 10-15 val.
+          Mes dirbame I-V, 10-19 val. VI, 10-15 val.
         </div>
       </div>
 
