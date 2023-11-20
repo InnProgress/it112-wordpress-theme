@@ -178,6 +178,6 @@
 </div>
 
 <?php require 'dirbame-su.php'; ?>
-<?php echo do_shortcode([wp_schema_pro_rating_shortcode]); ?>
+<?php echo do_shortcode("[wp_schema_pro_rating_shortcode]"); ?>
 
 <?php get_footer(); ?>
