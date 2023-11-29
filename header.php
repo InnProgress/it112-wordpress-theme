@@ -37,6 +37,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-PFVBJPJ7');</script>
 <!-- End Google Tag Manager -->
 
+  <!-- Event snippet for Page view conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-11418089397/86B6CIHdsvgYELXvyMQq'});
+</script>
+
+
   
 </head>
 <body <?php body_class(); ?>>
