@@ -86,6 +86,6 @@
   </div>
 </div>
 
-<?php require 'dirbame-su.php'; ?>
+<?php require 'template-parts/dirbame-su.php'; ?>
 
 <?php get_footer(); ?>

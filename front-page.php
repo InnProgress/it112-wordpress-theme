@@ -116,6 +116,8 @@
   </div>
 </div>
 
+<?php require 'template-parts/kompiuteriai.php'; ?>
+
 <div class="mb-14">
   <h2 class="text-2xl md:text-4xl font-bold text-center lg:text-left mb-3 lg:mb-8 lg:ml-2">Naujienos</h2>
   
@@ -177,6 +179,6 @@
   </div>
 </div>
 
-<?php require 'dirbame-su.php'; ?>
+<?php require 'template-parts/dirbame-su.php'; ?>
 
 <?php get_footer(); ?>

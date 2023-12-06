@@ -1,6 +1,11 @@
 module.exports = {
-  content: ["./*.{html,js,php}"],
+  content: ["./*.{html,js,php}", "./*/*.{html,js,php}"],
   theme: {
+    extend: {
+      colors: {
+        "custom-gray": "#868686",
+      },
+    },
     fontSize: {
       xs: ["0.75rem", "1rem"],
       sm: ["0.875rem", "1.25rem"],
