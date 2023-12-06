@@ -2,7 +2,7 @@
 
 <div class="flex flex-col-reverse md:flex-row md:max-lg:mt-14 mb-14 lg:mb-0">
   <div class="flex-1 self-center text-center md:text-left">
-    <h1 class="text-2xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">Skubi pagalba Jūsų kompiuteriui</h1>
+    <h1 class="text-2xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-4">Kompiuterių remontas Vilniuje</h1>
     <p class="text-lg md:text-xl lg:text-2xl text-justify md:text-left my-2 md:my-5">Greitai nustatysime gedimą bei rasime sprendimą. Taisome, tobuliname bei surenkame kompiuterius. Kreipkitės jau šiandien, visada padėsime!</p>
     <a href="<?php echo get_page_link(12); ?>" class="btn btn--red rounded-lg inline-block text-lg md:text-xl px-12 py-4 mt-2 md:mt-0">Paslaugų kainos</a>
   </div>
@@ -70,7 +70,7 @@
 <div class="flex flex-col-reverse md:flex-row mb-14 lg:mb-10">
   <div class="flex-1 self-center text-center md:text-left">
     <div class="lg:w-max">
-      <h2 class="text-2xl md:text-4xl font-bold mb-2 md:mb-4">Pasitikrink remonto būseną!</h2>
+      <h2 class="text-2xl md:text-4xl font-bold mb-2 md:mb-4">Pasitikrinkite remonto būseną!</h2>
       <p class="text-lg md:text-xl text-justify md:text-left my-2 md:my-5">Stebėkite savo kompiuterio remonto eigą tiesiogiai mūsų svetainėje.</p>
       <form action="/remonto-busena">
         <input class="block w-full text-lg rounded-lg border border-solid border-gray-200 px-3 md:px-5 py-3 md:py-5 mb-3 md:mb-5" name="code" placeholder="Įveskite remonto numerį" />
@@ -169,7 +169,7 @@
         </div>
         <div class="ml-5 md:ml-8">
           <p class="text-xl md:text-2xl font-bold">Kalvarijų g. 2</p>
-          <p class="text-xl md:text-2xl">I-V, 10-18 val. VI, 10-15 val.</p>
+          <p class="text-xl md:text-2xl">I-V, 10-19 val. VI, 10-15 val.</p>
         </div>
       </div>
     </div>
@@ -180,5 +180,6 @@
 </div>
 
 <?php require 'template-parts/dirbame-su.php'; ?>
+<?php echo do_shortcode("[wp_schema_pro_rating_shortcode]"); ?>
 
 <?php get_footer(); ?>

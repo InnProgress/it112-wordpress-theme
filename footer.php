@@ -2,10 +2,7 @@
     <footer class="grid grid-cols-6 gap-2 justify-between mt-10 mb-14">
       <div class="col-span-6 xl:col-span-2 mb-10 xl:mb-0">
         <h2 class="footer-title w-max text-2xl md:text-3xl font-bold mb-1 md:mb-3">
-          Kompiuterių servisas
-          <span class="footer-title__last-word-wrapper">
-            <span class="footer-title__last-word-wrapper__text">Vilniuje</span>
-          </span>
+          <a href="https://it112.lt/" class="font-bold">Kompiuterių remontas Vilniuje</a>
         </h2>
         <p class="text-md md:text-lg">Jokių problemų - tik sprendimai</p>
         <div class="flex space-x-6 mt-8">
@@ -43,7 +40,7 @@
         <p class="text-gray-400">
           MB „IT112“<br />
           Įmonės kodas: 306561580<br />
-          PVM: <br />
+          PVM: LT100016378016<br />
           Adresas: Kalvarijų g. 2, Vilnius<br /><br />
 
           Atsiskaitomoji sąskaita: LT077300010181630587<br />
