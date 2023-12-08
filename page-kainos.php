@@ -25,7 +25,7 @@
                 <tbody>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Kompiuterio detalių paieška ir surinkimo darbai</td>
-                        <td class="border-b border-slate-300 p-4 pr-9 text-center">40€</td>
+                        <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
                     </tr>
                     <tr>
                         <td class="border-b border-slate-300 p-4 pl-9">Diagnostika</td>
@@ -44,7 +44,7 @@
                         <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
                     </tr>
                     <tr>
-                        <td class="border-b border-slate-300 p-4 pl-9">Dulkių valymas, termo pastos keitimas</td>
+                        <td class="border-b border-slate-300 p-4 pl-9">Dulkių valymas, termopastos keitimas</td>
                         <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
                     </tr>
                     <tr>
@@ -111,7 +111,7 @@
                         <td class="border-b border-slate-300 p-4 pr-9 text-center">30€</td>
                     </tr>
                     <tr>
-                        <td class="border-b border-slate-300 p-4 pl-9">Dulkių valymas, termo pastos keitimas</td>
+                        <td class="border-b border-slate-300 p-4 pl-9">Dulkių valymas, termopastos keitimas</td>
                         <td class="border-b border-slate-300 p-4 pr-9 text-center">25€</td>
                     </tr>
                     <tr>
