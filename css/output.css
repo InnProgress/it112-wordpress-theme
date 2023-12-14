@@ -586,6 +586,11 @@ html {
   position: relative;
 }
 
+.inset-x-1\/2 {
+  left: 50%;
+  right: 50%;
+}
+
 .-bottom-\[14px\] {
   bottom: -14px;
 }
@@ -862,6 +867,11 @@ html {
 
 .border-collapse {
   border-collapse: collapse;
+}
+
+.-translate-x-2\/4 {
+  --tw-translate-x: -50%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .rotate-180 {
@@ -1962,6 +1972,10 @@ footer .social-media-logo:hover {
 }
 
 @media (min-width: 1280px) {
+  .xl\:inset-0 {
+    inset: 0px;
+  }
+
   .xl\:col-span-1 {
     grid-column: span 1 / span 1;
   }
@@ -1983,8 +1997,17 @@ footer .social-media-logo:hover {
     margin-left: 1rem;
   }
 
+  .xl\:ml-8 {
+    margin-left: 2rem;
+  }
+
   .xl\:w-5\/12 {
     width: 41.666667%;
+  }
+
+  .xl\:translate-x-0 {
+    --tw-translate-x: 0px;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
 
   .xl\:rotate-0 {
