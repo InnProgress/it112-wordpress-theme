@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             wp_nav_menu($args);
           ?>
 
-          <a href="/krepselis" class="cart relative inline-block inset-x-1/2 xl:inset-0 -translate-x-2/4 xl:translate-x-0 xl:ml-12">
+          <a href="/krepselis" class="cart relative inline-block inset-x-1/2 lg:inset-0 -translate-x-2/4 lg:translate-x-0 lg:ml-12">
             <img src="<?php echo get_template_directory_uri(); ?>/img/cart-shopping-solid.svg" width="36" height="36" />
             <div class="bg-blue flex items-center justify-center absolute -bottom-[10px] -right-[10px] rounded-md w-6 h-6">
               <p class="text-white text-lg font-bold"><?php echo get_cart_item_count(); ?></p>
