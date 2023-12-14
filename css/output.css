@@ -1853,6 +1853,10 @@ footer .social-media-logo:hover {
     margin-left: 0.5rem;
   }
 
+  .lg\:ml-6 {
+    margin-left: 1.5rem;
+  }
+
   .lg\:ml-auto {
     margin-left: auto;
   }
@@ -1867,14 +1871,6 @@ footer .social-media-logo:hover {
 
   .lg\:mt-14 {
     margin-top: 3.5rem;
-  }
-
-  .lg\:ml-12 {
-    margin-left: 3rem;
-  }
-
-  .lg\:ml-8 {
-    margin-left: 2rem;
   }
 
   .lg\:flex {
@@ -1981,10 +1977,6 @@ footer .social-media-logo:hover {
 }
 
 @media (min-width: 1280px) {
-  .xl\:inset-0 {
-    inset: 0px;
-  }
-
   .xl\:col-span-1 {
     grid-column: span 1 / span 1;
   }
@@ -2002,21 +1994,12 @@ footer .social-media-logo:hover {
     margin-bottom: 0px;
   }
 
-  .xl\:ml-16 {
-    margin-left: 4rem;
-  }
-
   .xl\:ml-12 {
     margin-left: 3rem;
   }
 
   .xl\:w-5\/12 {
     width: 41.666667%;
-  }
-
-  .xl\:translate-x-0 {
-    --tw-translate-x: 0px;
-    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
 
   .xl\:rotate-0 {
