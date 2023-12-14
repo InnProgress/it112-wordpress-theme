@@ -1306,6 +1306,10 @@ header nav ul.header__nav li {
   border-top: 1px solid lightgray;
 }
 
+header nav ul.header__nav li:last-child {
+  border-bottom: 1px solid lightgray;
+}
+
 @media only screen and (min-width: 1024px) {
   header nav ul.header__nav li {
     margin: 0 0.8rem !important;
@@ -1869,12 +1873,12 @@ footer .social-media-logo:hover {
     margin-right: auto;
   }
 
-  .lg\:mt-14 {
-    margin-top: 3.5rem;
-  }
-
   .lg\:mt-0 {
     margin-top: 0px;
+  }
+
+  .lg\:mt-14 {
+    margin-top: 3.5rem;
   }
 
   .lg\:flex {

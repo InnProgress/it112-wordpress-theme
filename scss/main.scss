@@ -39,6 +39,9 @@ header {
       font-weight: bold;
       font-size: 1.1rem;
       border-top: 1px solid lightgray;
+      &:last-child {
+        border-bottom: 1px solid lightgray;
+      }
 
       @media only screen and (min-width: $lg-breakpoint) {
         margin: 0 0.8rem !important;

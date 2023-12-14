@@ -23,6 +23,8 @@ header nav ul.header__nav {
     font-weight: bold;
     font-size: 1.1rem;
     border-top: 1px solid lightgray; }
+    header nav ul.header__nav li:last-child {
+      border-bottom: 1px solid lightgray; }
     @media only screen and (min-width: 1024px) {
       header nav ul.header__nav li {
         margin: 0 0.8rem !important;
