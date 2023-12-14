@@ -2001,6 +2001,10 @@ footer .social-media-logo:hover {
     margin-left: 2rem;
   }
 
+  .xl\:ml-16 {
+    margin-left: 4rem;
+  }
+
   .xl\:w-5\/12 {
     width: 41.666667%;
   }
