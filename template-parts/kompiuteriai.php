@@ -3,7 +3,7 @@
   <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-6 mb-7">
     <div class="block flex-1 rounded-2xl">
       <div class="relative border-2 border-gray-300 rounded-xl h-full py-6">
-        <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a>
+<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> --!> -->
 
         <div class="carousel-wrapper relative">
           <button class="carousel__prev group absolute z-10 left-8 top-2/4">
@@ -22,31 +22,31 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris (Budget)</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Mini</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">PPuikiai suderinti komponentai leist žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
-            <p>Ryzen 5 5600</p>
+            <p>Ryzen 5 5600G</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 3060</p>
+            <p>RTX 3050 8G</p>
             
             <p>RAM</p>
-            <p>16GB</p>
+            <p>16GB 3200Mhz</p>
 
             <p>Diskas</p>
-            <p>1TB SSD</p>
+            <p>512GB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
-            <p class="text-2xl xl:text-4xl font-bold">550€</p>
-            <a href="" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <p class="text-2xl xl:text-4xl font-bold">749€</p>
+            <a href="https://it112.lt/produktas/kompiuteris-mini/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
     </div>
     <div class="block flex-1 rounded-2xl">
       <div class="relative border-2 border-gray-300 rounded-xl h-full py-6">
-        <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a>
+<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> --!> -->
 
         <div class="carousel-wrapper relative">
           <button class="carousel__prev group absolute z-10 left-8 top-2/4">
@@ -65,31 +65,31 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris (Budget)</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Midi</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis. Didžioji dalis komponentų turi RGB apšvietimą.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
-            <p>Ryzen 5 5600</p>
+            <p>Ryzen 5 5600X</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 3060</p>
+            <p>RTX 4060 8G</p>
             
             <p>RAM</p>
             <p>16GB</p>
 
             <p>Diskas</p>
-            <p>1TB SSD</p>
+            <p>512GB-1TB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
-            <p class="text-2xl xl:text-4xl font-bold">550€</p>
-            <a href="" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <p class="text-2xl xl:text-4xl font-bold">999€</p>
+            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-midi-ryzen-5-5600x-rtx-4060-16gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
     </div>
     <div class="block flex-1 rounded-2xl">
       <div class="relative border-2 border-gray-300 rounded-xl h-full py-6">
-        <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a>
+<!--         <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> -->
 
         <div class="carousel-wrapper relative">
           <button class="carousel__prev group absolute z-10 left-8 top-2/4">
@@ -108,24 +108,24 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris (Budget)</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris MAXI</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Didžioji dalis komponentų turi RGB apšvietimą. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
-            <p>Ryzen 5 5600</p>
+            <p>Ryzen 9 5900X</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 3060</p>
+            <p>RTX 4070 12G</p>
             
             <p>RAM</p>
-            <p>16GB</p>
+            <p>32GB</p>
 
             <p>Diskas</p>
             <p>1TB SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
-            <p class="text-2xl xl:text-4xl font-bold">550€</p>
-            <a href="" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <p class="text-2xl xl:text-4xl font-bold">1529€</p>
+            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-maxi-ryzen-9-5900x-rtx-4070-32gb-ram-1tb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
