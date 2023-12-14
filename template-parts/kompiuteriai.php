@@ -16,9 +16,9 @@
           </button>
           
           <div class="carousel relative h-80 px-7 overflow-hidden">  
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
           </div>
         </div>
         <div class="py-4 px-7">
@@ -59,9 +59,9 @@
           </button>
           
           <div class="carousel relative h-80 px-7 overflow-hidden">  
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
           </div>
         </div>
         <div class="py-4 px-7">
@@ -102,9 +102,9 @@
           </button>
           
           <div class="carousel relative h-80 px-7 overflow-hidden">  
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.jpg" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc1.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
+            <img src="<?php echo get_template_directory_uri(); ?>/img/pc2.png" alt="computer" class="carousel__item w-full h-80 object-contain" />
           </div>
         </div>
         <div class="py-4 px-7">
