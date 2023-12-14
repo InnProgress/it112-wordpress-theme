@@ -59,17 +59,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <img src="<?php echo get_template_directory_uri(); ?>/img/hamburger-icon.png" width="48" height="48" />
           <img src="<?php echo get_template_directory_uri(); ?>/img/x-icon.png" class="hidden" width="48" height="48" />
         </button>
-        <div class="header-navigation-wrapper max-lg:absolute max-lg:top-20 max-lg:left-0 max-lg:shadow-lg max-lg:bg-white max-lg:w-full pb-5 lg:pb-0 hidden lg:block">
+        <div class="header-navigation-wrapper max-lg:absolute max-lg:top-20 max-lg:left-0 max-lg:shadow-lg max-lg:bg-white max-lg:w-full pb-5 lg:pb-0 hidden lg:flex items-center">
           <?php
             $args = array(
               'theme_location' => 'primary-menu',
               'container' => 'nav',
-              'menu_class' => 'header__nav inline-block'
+              'menu_class' => 'header__nav'
             );
             wp_nav_menu($args);
           ?>
 
-          <a href="/krepselis" class="cart relative inline-block">
+          <a href="/krepselis" class="cart relative inline-block xl:ml-4">
             <img src="<?php echo get_template_directory_uri(); ?>/img/cart-shopping-solid.svg" width="48" height="48" />
             <div class="bg-blue flex items-center justify-center absolute -bottom-[14px] -right-[14px] rounded-md w-8 h-8">
               <p class="text-white text-xl font-bold"><?php echo get_cart_item_count(); ?></p>
