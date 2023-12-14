@@ -1873,6 +1873,10 @@ footer .social-media-logo:hover {
     margin-top: 3.5rem;
   }
 
+  .lg\:mt-0 {
+    margin-top: 0px;
+  }
+
   .lg\:flex {
     display: flex;
   }
