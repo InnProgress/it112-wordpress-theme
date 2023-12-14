@@ -3,7 +3,7 @@
   <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-6 mb-7">
     <div class="block flex-1 rounded-2xl">
       <div class="relative border-2 border-gray-300 rounded-xl h-full py-6">
-<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> --!> -->
+<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> -->
 
         <div class="carousel-wrapper relative">
           <button class="carousel__prev group absolute z-10 left-8 top-2/4">
@@ -46,7 +46,7 @@
     </div>
     <div class="block flex-1 rounded-2xl">
       <div class="relative border-2 border-gray-300 rounded-xl h-full py-6">
-<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> --!> -->
+<!--         <-- <a href="" class="absolute left-8 top-8 z-10 btn btn--yellow rounded-md xl:text-lg px-8 py-3">Koreguoti</a> -->
 
         <div class="carousel-wrapper relative">
           <button class="carousel__prev group absolute z-10 left-8 top-2/4">
