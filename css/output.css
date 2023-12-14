@@ -1308,6 +1308,7 @@ header nav ul.header__nav li {
 
 header nav ul.header__nav li:last-child {
   border-bottom: 1px solid lightgray;
+  padding-bottom: 15px;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -1315,6 +1316,7 @@ header nav ul.header__nav li:last-child {
     margin: 0 0.8rem !important;
     border-radius: 0;
     border: none;
+    padding-bottom: 0;
     border-bottom: 3px solid transparent;
   }
 }

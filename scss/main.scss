@@ -41,12 +41,14 @@ header {
       border-top: 1px solid lightgray;
       &:last-child {
         border-bottom: 1px solid lightgray;
+        padding-bottom: 15px;
       }
 
       @media only screen and (min-width: $lg-breakpoint) {
         margin: 0 0.8rem !important;
         border-radius: 0;
         border: none;
+        padding-bottom: 0;
         border-bottom: 3px solid transparent;
       }
       @media only screen and (min-width: $xl-breakpoint) {
