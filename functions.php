@@ -18,3 +18,10 @@ function registerThemeMenus() {
   ));
 }
 add_action('init', 'registerThemeMenus');
+
+function get_cart_item_count() {
+  global $woocommerce;
+  $cart = $woocommerce->cart;
+  $item_count = $cart->get_cart_contents_count();
+  return $item_count;
+}
