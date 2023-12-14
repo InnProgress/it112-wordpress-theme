@@ -23,16 +23,16 @@
         </div>
         <div class="py-4 px-7">
           <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Mini</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leist žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 5 5600G</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 3050 8G</p>
+            <p>RTX 3050 8GB</p>
             
             <p>RAM</p>
-            <p>16GB 3200Mhz</p>
+            <p>16GB 3200MHz</p>
 
             <p>Diskas</p>
             <p>512GB M.2 SSD</p>
@@ -66,16 +66,16 @@
         </div>
         <div class="py-4 px-7">
           <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Midi</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis. Didžioji dalis komponentų turi RGB apšvietimą.</span>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 5 5600X</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 4060 8G</p>
+            <p>RTX 4060 8GB</p>
             
             <p>RAM</p>
-            <p>16GB</p>
+            <p>16GB 3200MHz</p>
 
             <p>Diskas</p>
             <p>512GB-1TB M.2 SSD</p>
@@ -109,13 +109,13 @@
         </div>
         <div class="py-4 px-7">
           <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris MAXI</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Didžioji dalis komponentų turi RGB apšvietimą. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 9 5900X</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 4070 12G</p>
+            <p>RTX 4070 12GB</p>
             
             <p>RAM</p>
             <p>32GB</p>
