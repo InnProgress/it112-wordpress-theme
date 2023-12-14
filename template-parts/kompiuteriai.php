@@ -1,4 +1,4 @@
-<div class="my-20 hidden">
+<div class="my-20">
   <h2 class="text-2xl md:text-4xl font-bold text-center mb-3 lg:mb-8">Kompiuteriai</h2>
   <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-6 mb-7">
     <div class="block flex-1 rounded-2xl">
