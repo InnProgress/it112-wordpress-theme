@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT1</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris G1</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -37,7 +37,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">569€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-it1-ryzen-5-5500-rx-6600-8gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/g1/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
