@@ -61,7 +61,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT2</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris G2</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -78,7 +78,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">999€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-midi-ryzen-5-5600x-rtx-4060-16gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/g2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT3</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris G3</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -119,7 +119,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">1529€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-maxi-ryzen-9-5900x-rtx-4070-32gb-ram-1tb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/g3/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
@@ -149,7 +149,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT4</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui D1</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -166,7 +166,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">399€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-it3-ryzen-5-5600g-8gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/d1/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
@@ -190,7 +190,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT5</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui D2</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -207,7 +207,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">999€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-midi-ryzen-5-5600x-rtx-4060-16gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/d2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
@@ -231,7 +231,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT6</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui D3</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -248,7 +248,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">1529€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-maxi-ryzen-9-5900x-rtx-4070-32gb-ram-1tb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/d3/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
