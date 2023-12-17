@@ -166,7 +166,7 @@
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">399€</p>
-            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-it1-ryzen-5-5500-rx-6600-8gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
+            <a href="https://it112.lt/produktas/zaidimu-kompiuteris-it3-ryzen-5-5600g-8gb-ram-512gb-ssd-m-2/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
       </div>
