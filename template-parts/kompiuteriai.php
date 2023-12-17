@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Mini</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT1</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -65,7 +65,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris Midi</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT2</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
@@ -108,7 +108,7 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris MAXI</h3>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT3</h3>
           <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
