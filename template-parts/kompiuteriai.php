@@ -149,8 +149,8 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT1</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Puikiai suderinti komponentai leis žaisti įvairius žaidimus, sklandžiai dirbti ar mokytis neišleidžiant didelės pinigų sumos.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT4</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 5 5500</p>
@@ -190,8 +190,8 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT2</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais vidutinėmis/maksimaliomis grafikomis.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT5</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 5 5600X</p>
@@ -231,8 +231,8 @@
           </div>
         </div>
         <div class="py-4 px-7">
-          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Žaidimų kompiuteris IT3</h3>
-          <span class="block text-lg text-gray-400 px-2 mt-2">Itin galingas ir išvaizdus kompiuteris, susitvarkys su visais žaidimais be jokio vargo. Vandeniu aušinamas procesorius užtikrins sklandų ir greitą darbą.</span>
+          <h3 class="text-xl md:text-2xl font-bold uppercase px-2">Kompiuteris darbui IT6</h3>
+          <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
             <p>Ryzen 9 5900X</p>
