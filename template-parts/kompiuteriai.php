@@ -235,10 +235,10 @@
           <span class="block text-lg text-gray-400 px-2 mt-2">Kokybiški komponentai leis dirbti sklandžiai ir greitai.</span>
           <div class="grid grid-cols-2 bg-neutral-100 text-custom-gray font-medium rounded-md my-4 px-2 py-2">
             <p>Procesorius</p>
-            <p>Ryzen 9 5900X</p>
+            <p>Ryzen 7 5800X</p>
             
             <p>Vaizdo plokštė</p>
-            <p>RTX 4070 12GB</p>
+            <p>RTX 4060 8GB</p>
             
             <p>RAM</p>
             <p>32GB</p>
@@ -247,7 +247,7 @@
             <p>512GB-2TB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
-            <p class="text-2xl xl:text-4xl font-bold">1529€</p>
+            <p class="text-2xl xl:text-4xl font-bold">969€</p>
             <a href="https://it112.lt/produktas/d3/" class="btn btn--blue rounded-md xl:text-lg px-16 py-3">Pirkti</a>
           </div>
         </div>
