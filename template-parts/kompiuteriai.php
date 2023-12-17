@@ -33,7 +33,7 @@
             <p>8GB 3200MHz</p>
 
             <p>Diskas</p>
-            <p>512GB M.2 SSD</p>
+            <p>512GB-2TB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">569€</p>
@@ -74,7 +74,7 @@
             <p>16GB 3200MHz</p>
 
             <p>Diskas</p>
-            <p>512GB-1TB M.2 SSD</p>
+            <p>512GB-2TB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">999€</p>
@@ -115,7 +115,7 @@
             <p>32GB</p>
 
             <p>Diskas</p>
-            <p>1TB SSD</p>
+            <p>512GB-2TB M.2 SSD</p>
           </div>
           <div class="flex justify-between items-center px-2">
             <p class="text-2xl xl:text-4xl font-bold">1529€</p>
